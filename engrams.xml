@@ -1,0 +1,2539 @@
+<?xml version="1.0" ?>
+<root>
+	<engrams type="dict">
+		<tekgrams type="list">
+			<item type="dict">
+				<item type="list">
+					<item type="str">T</item>
+					<item type="str">e</item>
+					<item type="str">k</item>
+					<item type="str"> </item>
+					<item type="str">R</item>
+					<item type="str">e</item>
+					<item type="str">p</item>
+					<item type="str">l</item>
+					<item type="str">i</item>
+					<item type="str">c</item>
+					<item type="str">a</item>
+					<item type="str">t</item>
+					<item type="str">o</item>
+					<item type="str">r</item>
+				</item>
+				<bosses type="list">
+					<item type="dict">
+						<min_difficulty type="list">
+							<item type="str"> </item>
+							<item type="str">A</item>
+							<item type="str">n</item>
+							<item type="str">y</item>
+							<item type="str"> </item>
+							<item type="str">D</item>
+							<item type="str">i</item>
+							<item type="str">f</item>
+							<item type="str">f</item>
+							<item type="str">i</item>
+							<item type="str">c</item>
+							<item type="str">u</item>
+							<item type="str">l</item>
+							<item type="str">t</item>
+							<item type="str">y</item>
+							<item type="str"> </item>
+						</min_difficulty>
+						<name type="list">
+							<item type="str"> </item>
+							<item type="str">A</item>
+							<item type="str">n</item>
+							<item type="str">y</item>
+							<item type="str"> </item>
+							<item type="str">B</item>
+							<item type="str">o</item>
+							<item type="str">s</item>
+							<item type="str">s</item>
+							<item type="str"> </item>
+						</name>
+						<arena_level_requirement type="int">30</arena_level_requirement>
+					</item>
+				</bosses>
+			</item>
+			<item type="dict">
+				<item type="list">
+					<item type="str">T</item>
+					<item type="str">e</item>
+					<item type="str">k</item>
+					<item type="str"> </item>
+					<item type="str">G</item>
+					<item type="str">a</item>
+					<item type="str">u</item>
+					<item type="str">n</item>
+					<item type="str">t</item>
+					<item type="str">l</item>
+					<item type="str">e</item>
+					<item type="str">t</item>
+					<item type="str">s</item>
+				</item>
+				<bosses type="list">
+					<item type="dict">
+						<min_difficulty type="list">
+							<item type="str"> </item>
+							<item type="str"> </item>
+							<item type="str">E</item>
+							<item type="str">a</item>
+							<item type="str">s</item>
+							<item type="str">y</item>
+							<item type="str"> </item>
+						</min_difficulty>
+						<name type="list">
+							<item type="str">M</item>
+							<item type="str">e</item>
+							<item type="str">g</item>
+							<item type="str">a</item>
+							<item type="str">p</item>
+							<item type="str">i</item>
+							<item type="str">t</item>
+							<item type="str">h</item>
+							<item type="str">e</item>
+							<item type="str">c</item>
+							<item type="str">u</item>
+							<item type="str">s</item>
+						</name>
+						<arena_level_requirement type="int">45</arena_level_requirement>
+					</item>
+					<item type="dict">
+						<min_difficulty type="list">
+							<item type="str"> </item>
+							<item type="str"> </item>
+							<item type="str">E</item>
+							<item type="str">a</item>
+							<item type="str">s</item>
+							<item type="str">y</item>
+							<item type="str"> </item>
+						</min_difficulty>
+						<name type="list">
+							<item type="str">M</item>
+							<item type="str">a</item>
+							<item type="str">n</item>
+							<item type="str">t</item>
+							<item type="str">i</item>
+							<item type="str">c</item>
+							<item type="str">o</item>
+							<item type="str">r</item>
+							<item type="str">e</item>
+						</name>
+						<arena_level_requirement type="int">55</arena_level_requirement>
+					</item>
+				</bosses>
+			</item>
+			<item type="dict">
+				<item type="list">
+					<item type="str">T</item>
+					<item type="str">e</item>
+					<item type="str">k</item>
+					<item type="str"> </item>
+					<item type="str">B</item>
+					<item type="str">o</item>
+					<item type="str">o</item>
+					<item type="str">t</item>
+					<item type="str">s</item>
+				</item>
+				<bosses type="list">
+					<item type="dict">
+						<min_difficulty type="list">
+							<item type="str"> </item>
+							<item type="str">M</item>
+							<item type="str">e</item>
+							<item type="str">d</item>
+							<item type="str">i</item>
+							<item type="str">u</item>
+							<item type="str">m</item>
+							<item type="str"> </item>
+						</min_difficulty>
+						<name type="list">
+							<item type="str">B</item>
+							<item type="str">r</item>
+							<item type="str">o</item>
+							<item type="str">o</item>
+							<item type="str">d</item>
+							<item type="str">m</item>
+							<item type="str">o</item>
+							<item type="str">t</item>
+							<item type="str">h</item>
+							<item type="str">e</item>
+							<item type="str">r</item>
+							<item type="str"> </item>
+							<item type="str">L</item>
+							<item type="str">y</item>
+							<item type="str">s</item>
+							<item type="str">r</item>
+							<item type="str">i</item>
+							<item type="str">x</item>
+						</name>
+						<arena_level_requirement type="int">50</arena_level_requirement>
+					</item>
+				</bosses>
+			</item>
+			<item type="dict">
+				<item type="list">
+					<item type="str">T</item>
+					<item type="str">e</item>
+					<item type="str">k</item>
+					<item type="str"> </item>
+					<item type="str">L</item>
+					<item type="str">e</item>
+					<item type="str">g</item>
+					<item type="str">g</item>
+					<item type="str">i</item>
+					<item type="str">n</item>
+					<item type="str">g</item>
+					<item type="str">s</item>
+				</item>
+				<bosses type="list">
+					<item type="dict">
+						<min_difficulty type="list">
+							<item type="str"> </item>
+							<item type="str">E</item>
+							<item type="str">a</item>
+							<item type="str">s</item>
+							<item type="str">y</item>
+							<item type="str"> </item>
+						</min_difficulty>
+						<name type="list">
+							<item type="str">T</item>
+							<item type="str">h</item>
+							<item type="str">e</item>
+							<item type="str"> </item>
+							<item type="str">D</item>
+							<item type="str">r</item>
+							<item type="str">a</item>
+							<item type="str">g</item>
+							<item type="str">o</item>
+							<item type="str">n</item>
+						</name>
+						<arena_level_requirement type="int">55</arena_level_requirement>
+					</item>
+					<item type="dict">
+						<min_difficulty type="list">
+							<item type="str"> </item>
+							<item type="str">E</item>
+							<item type="str">a</item>
+							<item type="str">s</item>
+							<item type="str">y</item>
+							<item type="str"> </item>
+						</min_difficulty>
+						<name type="list">
+							<item type="str">M</item>
+							<item type="str">a</item>
+							<item type="str">n</item>
+							<item type="str">t</item>
+							<item type="str">i</item>
+							<item type="str">c</item>
+							<item type="str">o</item>
+							<item type="str">r</item>
+							<item type="str">e</item>
+						</name>
+						<arena_level_requirement type="int">55</arena_level_requirement>
+					</item>
+				</bosses>
+			</item>
+			<item type="dict">
+				<item type="list">
+					<item type="str">T</item>
+					<item type="str">e</item>
+					<item type="str">k</item>
+					<item type="str"> </item>
+					<item type="str">R</item>
+					<item type="str">i</item>
+					<item type="str">f</item>
+					<item type="str">l</item>
+					<item type="str">e</item>
+				</item>
+				<bosses type="list">
+					<item type="dict">
+						<min_difficulty type="list">
+							<item type="str"> </item>
+							<item type="str">M</item>
+							<item type="str">e</item>
+							<item type="str">d</item>
+							<item type="str">i</item>
+							<item type="str">u</item>
+							<item type="str">m</item>
+							<item type="str"> </item>
+						</min_difficulty>
+						<name type="list">
+							<item type="str">M</item>
+							<item type="str">e</item>
+							<item type="str">g</item>
+							<item type="str">a</item>
+							<item type="str">p</item>
+							<item type="str">i</item>
+							<item type="str">t</item>
+							<item type="str">h</item>
+							<item type="str">e</item>
+							<item type="str">c</item>
+							<item type="str">u</item>
+							<item type="str">s</item>
+						</name>
+						<arena_level_requirement type="int">65</arena_level_requirement>
+					</item>
+					<item type="dict">
+						<min_difficulty type="list">
+							<item type="str"> </item>
+							<item type="str">M</item>
+							<item type="str">e</item>
+							<item type="str">d</item>
+							<item type="str">i</item>
+							<item type="str">u</item>
+							<item type="str">m</item>
+							<item type="str"> </item>
+						</min_difficulty>
+						<name type="list">
+							<item type="str">M</item>
+							<item type="str">a</item>
+							<item type="str">n</item>
+							<item type="str">t</item>
+							<item type="str">i</item>
+							<item type="str">c</item>
+							<item type="str">o</item>
+							<item type="str">r</item>
+							<item type="str">e</item>
+						</name>
+						<arena_level_requirement type="int">70</arena_level_requirement>
+					</item>
+				</bosses>
+			</item>
+			<item type="dict">
+				<item type="list">
+					<item type="str">T</item>
+					<item type="str">e</item>
+					<item type="str">k</item>
+					<item type="str"> </item>
+					<item type="str">H</item>
+					<item type="str">e</item>
+					<item type="str">l</item>
+					<item type="str">m</item>
+					<item type="str">e</item>
+					<item type="str">t</item>
+				</item>
+				<bosses type="list">
+					<item type="dict">
+						<min_difficulty type="list">
+							<item type="str"> </item>
+							<item type="str">H</item>
+							<item type="str">a</item>
+							<item type="str">r</item>
+							<item type="str">d</item>
+							<item type="str"> </item>
+						</min_difficulty>
+						<name type="list">
+							<item type="str">B</item>
+							<item type="str">r</item>
+							<item type="str">o</item>
+							<item type="str">o</item>
+							<item type="str">d</item>
+							<item type="str">m</item>
+							<item type="str">o</item>
+							<item type="str">t</item>
+							<item type="str">h</item>
+							<item type="str">e</item>
+							<item type="str">r</item>
+							<item type="str"> </item>
+							<item type="str">L</item>
+							<item type="str">y</item>
+							<item type="str">s</item>
+							<item type="str">r</item>
+							<item type="str">i</item>
+							<item type="str">x</item>
+						</name>
+						<arena_level_requirement type="int">70</arena_level_requirement>
+					</item>
+				</bosses>
+			</item>
+			<item type="dict">
+				<item type="list">
+					<item type="str">T</item>
+					<item type="str">e</item>
+					<item type="str">k</item>
+					<item type="str"> </item>
+					<item type="str">T</item>
+					<item type="str">r</item>
+					<item type="str">a</item>
+					<item type="str">n</item>
+					<item type="str">s</item>
+					<item type="str">m</item>
+					<item type="str">i</item>
+					<item type="str">t</item>
+					<item type="str">t</item>
+					<item type="str">e</item>
+					<item type="str">r</item>
+				</item>
+				<bosses type="list">
+					<item type="dict">
+						<min_difficulty type="list">
+							<item type="str"> </item>
+							<item type="str">M</item>
+							<item type="str">e</item>
+							<item type="str">d</item>
+							<item type="str">i</item>
+							<item type="str">u</item>
+							<item type="str">m</item>
+							<item type="str"> </item>
+						</min_difficulty>
+						<name type="list">
+							<item type="str">T</item>
+							<item type="str">h</item>
+							<item type="str">e</item>
+							<item type="str"> </item>
+							<item type="str">D</item>
+							<item type="str">r</item>
+							<item type="str">a</item>
+							<item type="str">g</item>
+							<item type="str">o</item>
+							<item type="str">n</item>
+						</name>
+						<arena_level_requirement type="int">75</arena_level_requirement>
+					</item>
+				</bosses>
+			</item>
+			<item type="dict">
+				<item type="list">
+					<item type="str">R</item>
+					<item type="str">e</item>
+					<item type="str">x</item>
+					<item type="str"> </item>
+					<item type="str">T</item>
+					<item type="str">e</item>
+					<item type="str">k</item>
+					<item type="str"> </item>
+					<item type="str">S</item>
+					<item type="str">a</item>
+					<item type="str">d</item>
+					<item type="str">d</item>
+					<item type="str">l</item>
+					<item type="str">e</item>
+				</item>
+				<bosses type="list">
+					<item type="dict">
+						<min_difficulty type="list">
+							<item type="str"> </item>
+							<item type="str">H</item>
+							<item type="str">a</item>
+							<item type="str">r</item>
+							<item type="str">d</item>
+							<item type="str"> </item>
+						</min_difficulty>
+						<name type="list">
+							<item type="str">M</item>
+							<item type="str">e</item>
+							<item type="str">g</item>
+							<item type="str">a</item>
+							<item type="str">p</item>
+							<item type="str">i</item>
+							<item type="str">t</item>
+							<item type="str">h</item>
+							<item type="str">e</item>
+							<item type="str">c</item>
+							<item type="str">u</item>
+							<item type="str">s</item>
+						</name>
+						<arena_level_requirement type="int">85</arena_level_requirement>
+					</item>
+					<item type="dict">
+						<min_difficulty type="list">
+							<item type="str"> </item>
+							<item type="str">H</item>
+							<item type="str">a</item>
+							<item type="str">r</item>
+							<item type="str">d</item>
+							<item type="str"> </item>
+						</min_difficulty>
+						<name type="list">
+							<item type="str">M</item>
+							<item type="str">a</item>
+							<item type="str">n</item>
+							<item type="str">t</item>
+							<item type="str">i</item>
+							<item type="str">c</item>
+							<item type="str">o</item>
+							<item type="str">r</item>
+							<item type="str">e</item>
+						</name>
+						<arena_level_requirement type="int">95</arena_level_requirement>
+					</item>
+				</bosses>
+			</item>
+		</tekgrams>
+		<vanilla type="list">
+			<item type="dict">
+				<ep_to_unlock type="int">0</ep_to_unlock>
+				<name type="str">Stone Pick</name>
+				<icon type="str">https://hydra-media.cursecdn.com/ark.gamepedia.com/thumb/1/16/Stone_Pick.png/50px-Stone_Pick.png?version=cf8db01eb69485b4c355fbcf6ea1b3d2</icon>
+			</item>
+			<item type="dict">
+				<ep_to_unlock type="int">0</ep_to_unlock>
+				<name type="str">Torch</name>
+				<icon type="str">https://hydra-media.cursecdn.com/ark.gamepedia.com/thumb/b/b2/Torch.png/50px-Torch.png?version=1b185334e4b526b77461829a0f86d4df</icon>
+			</item>
+			<item type="dict">
+				<ep_to_unlock type="int">3</ep_to_unlock>
+				<name type="str">Campfire</name>
+				<icon type="str">https://hydra-media.cursecdn.com/ark.gamepedia.com/thumb/0/01/Campfire.png/50px-Campfire.png?version=ad00b06c2dded1c57ffe3acfe7bdcdb2</icon>
+			</item>
+			<item type="dict">
+				<ep_to_unlock type="int">3</ep_to_unlock>
+				<name type="str">Stone Hatchet</name>
+				<icon type="str">https://hydra-media.cursecdn.com/ark.gamepedia.com/thumb/d/d6/Stone_Hatchet.png/50px-Stone_Hatchet.png?version=c1e65af64581682cbdf2f27d12119993</icon>
+			</item>
+			<item type="dict">
+				<ep_to_unlock type="int">3</ep_to_unlock>
+				<name type="str">Spear</name>
+				<icon type="str">https://hydra-media.cursecdn.com/ark.gamepedia.com/thumb/4/4f/Spear.png/50px-Spear.png?version=146969a041fd9faf1429dae4eaf65a5a</icon>
+			</item>
+			<item type="dict">
+				<ep_to_unlock type="int">3</ep_to_unlock>
+				<name type="str">Note</name>
+				<icon type="str">https://hydra-media.cursecdn.com/ark.gamepedia.com/thumb/c/cc/Note.png/50px-Note.png?version=5f78a9893f11a9148f7ac0ea0d914cf0</icon>
+			</item>
+			<item type="dict">
+				<ep_to_unlock type="int">3</ep_to_unlock>
+				<name type="str">Cloth Pants</name>
+				<icon type="str">https://hydra-media.cursecdn.com/ark.gamepedia.com/thumb/6/69/Cloth_Pants.png/50px-Cloth_Pants.png?version=e4bbf13f7e88ac976a16b22dcfede55a</icon>
+			</item>
+			<item type="dict">
+				<ep_to_unlock type="int">3</ep_to_unlock>
+				<name type="str">Cloth Shirt</name>
+				<icon type="str">https://hydra-media.cursecdn.com/ark.gamepedia.com/thumb/f/f0/Cloth_Shirt.png/50px-Cloth_Shirt.png?version=89d5201e92ff449ca99e995909184c09</icon>
+			</item>
+			<item type="dict">
+				<ep_to_unlock type="int">3</ep_to_unlock>
+				<name type="str">Thatch Foundation</name>
+				<icon type="str">https://hydra-media.cursecdn.com/ark.gamepedia.com/thumb/4/43/Thatch_Foundation.png/50px-Thatch_Foundation.png?version=c5219a7b24b188ae1d87a7ebebd4f1a1</icon>
+			</item>
+			<item type="dict">
+				<ep_to_unlock type="int">3</ep_to_unlock>
+				<name type="str">Thatch Doorframe</name>
+				<icon type="str">https://hydra-media.cursecdn.com/ark.gamepedia.com/thumb/e/ef/Thatch_Doorframe.png/50px-Thatch_Doorframe.png?version=b3e1923242541c790590217f77fc77ba</icon>
+			</item>
+			<item type="dict">
+				<ep_to_unlock type="int">4</ep_to_unlock>
+				<name type="str">Wooden Club</name>
+				<icon type="str">https://hydra-media.cursecdn.com/ark.gamepedia.com/thumb/c/c8/Wooden_Club.png/50px-Wooden_Club.png?version=3307185ba2a962c9e6b82f51c68b2825</icon>
+			</item>
+			<item type="dict">
+				<ep_to_unlock type="int">6</ep_to_unlock>
+				<name type="str">Waterskin</name>
+				<icon type="str">https://hydra-media.cursecdn.com/ark.gamepedia.com/thumb/6/63/Waterskin_%28Empty%29.png/50px-Waterskin_%28Empty%29.png?version=68ebe4fb75a7ea16979ecaba9fe3682b</icon>
+			</item>
+			<item type="dict">
+				<ep_to_unlock type="int">3</ep_to_unlock>
+				<name type="str">Cloth Gloves</name>
+				<icon type="str">https://hydra-media.cursecdn.com/ark.gamepedia.com/thumb/9/9e/Cloth_Gloves.png/50px-Cloth_Gloves.png?version=324ac7a175c30efbacb55d1f1448f070</icon>
+			</item>
+			<item type="dict">
+				<ep_to_unlock type="int">3</ep_to_unlock>
+				<name type="str">Cloth Boots</name>
+				<icon type="str">https://hydra-media.cursecdn.com/ark.gamepedia.com/thumb/3/36/Cloth_Boots.png/50px-Cloth_Boots.png?version=573e2a0628981e482ac679873d23092c</icon>
+			</item>
+			<item type="dict">
+				<ep_to_unlock type="int">3</ep_to_unlock>
+				<name type="str">Cloth Hat</name>
+				<icon type="str">https://hydra-media.cursecdn.com/ark.gamepedia.com/thumb/4/42/Cloth_Hat.png/50px-Cloth_Hat.png?version=afd46d00a3cbff34aa251a9122c26751</icon>
+			</item>
+			<item type="dict">
+				<ep_to_unlock type="int">3</ep_to_unlock>
+				<name type="str">Wooden Sign</name>
+				<icon type="str">https://hydra-media.cursecdn.com/ark.gamepedia.com/thumb/2/22/Wooden_Sign.png/50px-Wooden_Sign.png?version=56216480340a54d957e726b1c4b55f5b</icon>
+			</item>
+			<item type="dict">
+				<ep_to_unlock type="int">3</ep_to_unlock>
+				<name type="str">Hide Sleeping Bag</name>
+				<icon type="str">https://hydra-media.cursecdn.com/ark.gamepedia.com/thumb/e/e8/Hide_Sleeping_Bag.png/50px-Hide_Sleeping_Bag.png?version=3bb2d79d414e253800b70beced49db9a</icon>
+			</item>
+			<item type="dict">
+				<ep_to_unlock type="int">3</ep_to_unlock>
+				<name type="str">Thatch Roof</name>
+				<icon type="str">https://hydra-media.cursecdn.com/ark.gamepedia.com/thumb/d/da/Thatch_Roof.png/50px-Thatch_Roof.png?version=4ef988840fd4a3a2a3404460727a384a</icon>
+			</item>
+			<item type="dict">
+				<ep_to_unlock type="int">3</ep_to_unlock>
+				<name type="str">Thatch Wall</name>
+				<icon type="str">https://hydra-media.cursecdn.com/ark.gamepedia.com/thumb/b/bd/Thatch_Wall.png/50px-Thatch_Wall.png?version=4edd36f332c5a1965e46163cbbd2289e</icon>
+			</item>
+			<item type="dict">
+				<ep_to_unlock type="int">3</ep_to_unlock>
+				<name type="str">Thatch Door</name>
+				<icon type="str">https://hydra-media.cursecdn.com/ark.gamepedia.com/thumb/6/6d/Thatch_Door.png/50px-Thatch_Door.png?version=21e27a5673561f3a6ca030fb76e41098</icon>
+			</item>
+			<item type="dict">
+				<ep_to_unlock type="int">6</ep_to_unlock>
+				<name type="str">Slingshot</name>
+				<icon type="str">https://hydra-media.cursecdn.com/ark.gamepedia.com/thumb/3/3f/Slingshot.png/50px-Slingshot.png?version=f95f4ac43d1c5a970cdd3f1e5b264fc4</icon>
+			</item>
+			<item type="dict">
+				<ep_to_unlock type="int">6</ep_to_unlock>
+				<name type="str">Storage Box</name>
+				<icon type="str">https://hydra-media.cursecdn.com/ark.gamepedia.com/thumb/d/d0/Storage_Box.png/50px-Storage_Box.png?version=b8edbb624931bac06f32b03a2bdb103b</icon>
+			</item>
+			<item type="dict">
+				<ep_to_unlock type="int">8</ep_to_unlock>
+				<name type="str">Simple Bed</name>
+				<icon type="str">https://hydra-media.cursecdn.com/ark.gamepedia.com/thumb/b/b1/Simple_Bed.png/50px-Simple_Bed.png?version=b9599cb2ffe5235b8ee7eaf02969f2cd</icon>
+			</item>
+			<item type="dict">
+				<ep_to_unlock type="int">6</ep_to_unlock>
+				<name type="str">Phiomia Saddle</name>
+				<icon type="str">https://hydra-media.cursecdn.com/ark.gamepedia.com/thumb/b/bb/Phiomia_Saddle.png/50px-Phiomia_Saddle.png?version=4497b1007ff347e4e2e92bdecc8b10ab</icon>
+			</item>
+			<item type="dict">
+				<ep_to_unlock type="int">6</ep_to_unlock>
+				<name type="str">Mortar And Pestle</name>
+				<icon type="str">https://hydra-media.cursecdn.com/ark.gamepedia.com/thumb/f/f0/Mortar_And_Pestle.png/50px-Mortar_And_Pestle.png?version=d8551f4867577bb2fe19c768107c87b8</icon>
+			</item>
+			<item type="dict">
+				<ep_to_unlock type="int">3</ep_to_unlock>
+				<name type="str">Sparkpowder</name>
+				<icon type="str">https://hydra-media.cursecdn.com/ark.gamepedia.com/thumb/5/56/Sparkpowder.png/50px-Sparkpowder.png?version=804e599d655d8022f8c9edcfa9d1775b</icon>
+			</item>
+			<item type="dict">
+				<ep_to_unlock type="int">6</ep_to_unlock>
+				<name type="str">Blood Extraction Syringe</name>
+				<icon type="str">https://hydra-media.cursecdn.com/ark.gamepedia.com/thumb/9/92/Blood_Extraction_Syringe.png/50px-Blood_Extraction_Syringe.png?version=77d85a062a5d144a542c31e40516c0fe</icon>
+			</item>
+			<item type="dict">
+				<ep_to_unlock type="int">6</ep_to_unlock>
+				<name type="str">Narcotic</name>
+				<icon type="str">https://hydra-media.cursecdn.com/ark.gamepedia.com/thumb/e/e6/Narcotic.png/50px-Narcotic.png?version=4087baddd4366fa78e559eecda4e7c29</icon>
+			</item>
+			<item type="dict">
+				<ep_to_unlock type="int">3</ep_to_unlock>
+				<name type="str">Paintbrush</name>
+				<icon type="str">https://hydra-media.cursecdn.com/ark.gamepedia.com/thumb/c/c4/Paintbrush.png/50px-Paintbrush.png?version=8f860c83a52508ec738d179abd48aaa7</icon>
+			</item>
+			<item type="dict">
+				<ep_to_unlock type="int">6</ep_to_unlock>
+				<name type="str">Single Panel Flag</name>
+				<icon type="str">https://hydra-media.cursecdn.com/ark.gamepedia.com/thumb/8/81/Single_Panel_Flag.png/50px-Single_Panel_Flag.png?version=070263f02fdff2d6b8e9191344511684</icon>
+			</item>
+			<item type="dict">
+				<ep_to_unlock type="int">6</ep_to_unlock>
+				<name type="str">Multi-Panel Flag</name>
+				<icon type="str">https://hydra-media.cursecdn.com/ark.gamepedia.com/thumb/7/7d/Multi-Panel_Flag.png/50px-Multi-Panel_Flag.png?version=0be31d5f6d40cb9be8b366dce5c7875f</icon>
+			</item>
+			<item type="dict">
+				<ep_to_unlock type="int">6</ep_to_unlock>
+				<name type="str">Standing Torch</name>
+				<icon type="str">https://hydra-media.cursecdn.com/ark.gamepedia.com/thumb/6/60/Standing_Torch.png/50px-Standing_Torch.png?version=bfc241253ef7bb9658ca130c676ab87b</icon>
+			</item>
+			<item type="dict">
+				<ep_to_unlock type="int">3</ep_to_unlock>
+				<name type="str">Sloped Thatch Wall Left</name>
+				<icon type="str">https://hydra-media.cursecdn.com/ark.gamepedia.com/thumb/5/5e/Sloped_Thatch_Wall_Left.png/50px-Sloped_Thatch_Wall_Left.png?version=583ce6851ba3979c5396cb74fb5e31fe</icon>
+			</item>
+			<item type="dict">
+				<ep_to_unlock type="int">3</ep_to_unlock>
+				<name type="str">Sloped Thatch Wall Right</name>
+				<icon type="str">https://hydra-media.cursecdn.com/ark.gamepedia.com/thumb/d/dd/Sloped_Thatch_Wall_Right.png/50px-Sloped_Thatch_Wall_Right.png?version=ae233365950623fcbdad082ac57be881</icon>
+			</item>
+			<item type="dict">
+				<ep_to_unlock type="int">3</ep_to_unlock>
+				<name type="str">Sloped Thatch Roof</name>
+				<icon type="str">https://hydra-media.cursecdn.com/ark.gamepedia.com/thumb/9/9d/Sloped_Thatch_Roof.png/50px-Sloped_Thatch_Roof.png?version=746dcc8e49f4f191e5e4b633aa4ec45c</icon>
+			</item>
+			<item type="dict">
+				<ep_to_unlock type="int">6</ep_to_unlock>
+				<name type="str">Wooden Foundation</name>
+				<icon type="str">https://hydra-media.cursecdn.com/ark.gamepedia.com/thumb/f/fb/Wooden_Foundation.png/50px-Wooden_Foundation.png?version=a18698a9a39a66dae0d75b9c678789cf</icon>
+			</item>
+			<item type="dict">
+				<ep_to_unlock type="int">7</ep_to_unlock>
+				<name type="str">Wooden Wall</name>
+				<icon type="str">https://hydra-media.cursecdn.com/ark.gamepedia.com/thumb/0/08/Wooden_Wall.png/50px-Wooden_Wall.png?version=c9307f0aace365c4835305b97a1a3ec3</icon>
+			</item>
+			<item type="dict">
+				<ep_to_unlock type="int">9</ep_to_unlock>
+				<name type="str">Cooking Pot</name>
+				<icon type="str">https://hydra-media.cursecdn.com/ark.gamepedia.com/thumb/f/f9/Cooking_Pot.png/50px-Cooking_Pot.png?version=b73c412fd41ebb4c168fa066aa91d470</icon>
+			</item>
+			<item type="dict">
+				<ep_to_unlock type="int">3</ep_to_unlock>
+				<name type="str">Cementing Paste</name>
+				<icon type="str">https://hydra-media.cursecdn.com/ark.gamepedia.com/thumb/0/03/Cementing_Paste.png/50px-Cementing_Paste.png?version=b426a81952c52caf942e16ddeb43d899</icon>
+			</item>
+			<item type="dict">
+				<ep_to_unlock type="int">6</ep_to_unlock>
+				<name type="str">Stimulant</name>
+				<icon type="str">https://hydra-media.cursecdn.com/ark.gamepedia.com/thumb/e/e2/Stimulant.png/50px-Stimulant.png?version=38734d3b99d912ff82b15c125454926f</icon>
+			</item>
+			<item type="dict">
+				<ep_to_unlock type="int">2</ep_to_unlock>
+				<name type="str">Gunpowder</name>
+				<icon type="str">https://hydra-media.cursecdn.com/ark.gamepedia.com/thumb/a/ae/Gunpowder.png/50px-Gunpowder.png?version=b8c5e993ac653d0ea9761175290d0b5c</icon>
+			</item>
+			<item type="dict">
+				<ep_to_unlock type="int">6</ep_to_unlock>
+				<name type="str">Flare Gun</name>
+				<icon type="str">https://hydra-media.cursecdn.com/ark.gamepedia.com/thumb/5/57/Flare_Gun.png/50px-Flare_Gun.png?version=f2c3b2c3c8548bf7c8b473121217a61f</icon>
+			</item>
+			<item type="dict">
+				<ep_to_unlock type="int">5</ep_to_unlock>
+				<name type="str">Compass</name>
+				<icon type="str">https://hydra-media.cursecdn.com/ark.gamepedia.com/thumb/9/92/Compass.png/50px-Compass.png?version=d15eeed6fdfab55f3e08e25c25aa6ab0</icon>
+			</item>
+			<item type="dict">
+				<ep_to_unlock type="int">2</ep_to_unlock>
+				<name type="str">Spyglass</name>
+				<icon type="str">https://hydra-media.cursecdn.com/ark.gamepedia.com/thumb/c/c1/Spyglass.png/50px-Spyglass.png?version=1fc0b35f27830b7a318de6415a24640e</icon>
+			</item>
+			<item type="dict">
+				<ep_to_unlock type="int">9</ep_to_unlock>
+				<name type="str">Small Crop Plot</name>
+				<icon type="str">https://hydra-media.cursecdn.com/ark.gamepedia.com/thumb/5/59/Small_Crop_Plot.png/50px-Small_Crop_Plot.png?version=effa22b25545ddd9a89dbe2bd6952a76</icon>
+			</item>
+			<item type="dict">
+				<ep_to_unlock type="int">8</ep_to_unlock>
+				<name type="str">Basic Gravestone</name>
+				<icon type="str">https://hydra-media.cursecdn.com/ark.gamepedia.com/thumb/0/01/Gravestone.png/50px-Gravestone.png?version=4d5d2ef2e53cd0b1f93b521528c3a9e7</icon>
+			</item>
+			<item type="dict">
+				<ep_to_unlock type="int">6</ep_to_unlock>
+				<name type="str">Wardrums</name>
+				<icon type="str">https://hydra-media.cursecdn.com/ark.gamepedia.com/thumb/d/db/Wardrums.png/50px-Wardrums.png?version=2c47f12a5092bd4ef904ae86bb1f0589</icon>
+			</item>
+			<item type="dict">
+				<ep_to_unlock type="int">9</ep_to_unlock>
+				<name type="str">Parasaur Saddle</name>
+				<icon type="str">https://hydra-media.cursecdn.com/ark.gamepedia.com/thumb/b/b6/Parasaur_Saddle.png/50px-Parasaur_Saddle.png?version=d5f9c1fb77fb4f0501bdc4c913fcb034</icon>
+			</item>
+			<item type="dict">
+				<ep_to_unlock type="int">8</ep_to_unlock>
+				<name type="str">Ichthyosaurus Saddle</name>
+				<icon type="str">https://hydra-media.cursecdn.com/ark.gamepedia.com/thumb/1/11/Ichthyosaurus_Saddle.png/50px-Ichthyosaurus_Saddle.png?version=d5bfcfc09fb8cd6b8002084d5da5fc90</icon>
+			</item>
+			<item type="dict">
+				<ep_to_unlock type="int">5</ep_to_unlock>
+				<name type="str">Stone Irrigation Pipe - Intake</name>
+				<icon type="str">https://hydra-media.cursecdn.com/ark.gamepedia.com/thumb/6/68/Stone_Irrigation_Pipe_-_Intake.png/50px-Stone_Irrigation_Pipe_-_Intake.png?version=17070bb5689d5a1fbdea6855507a5e25</icon>
+			</item>
+			<item type="dict">
+				<ep_to_unlock type="int">2</ep_to_unlock>
+				<name type="str">Stone Irrigation Pipe - Straight</name>
+				<icon type="str">https://hydra-media.cursecdn.com/ark.gamepedia.com/thumb/1/11/Stone_Irrigation_Pipe_-_Straight.png/50px-Stone_Irrigation_Pipe_-_Straight.png?version=15566a51c91e4ea70b28145c65dc70f3</icon>
+			</item>
+			<item type="dict">
+				<ep_to_unlock type="int">5</ep_to_unlock>
+				<name type="str">Stone Irrigation Pipe - Tap</name>
+				<icon type="str">https://hydra-media.cursecdn.com/ark.gamepedia.com/thumb/2/2b/Stone_Irrigation_Pipe_-_Tap.png/50px-Stone_Irrigation_Pipe_-_Tap.png?version=ccbdcb2c78ae0e0d39f9a1d0e375f54e</icon>
+			</item>
+			<item type="dict">
+				<ep_to_unlock type="int">4</ep_to_unlock>
+				<name type="str">Wooden Spike Wall</name>
+				<icon type="str">https://hydra-media.cursecdn.com/ark.gamepedia.com/thumb/0/00/Wooden_Spike_Wall.png/50px-Wooden_Spike_Wall.png?version=49e4f937c317fe5aaedf876f50aa2047</icon>
+			</item>
+			<item type="dict">
+				<ep_to_unlock type="int">2</ep_to_unlock>
+				<name type="str">Wooden Wall Sign</name>
+				<icon type="str">https://hydra-media.cursecdn.com/ark.gamepedia.com/thumb/c/cb/Wooden_Wall_Sign.png/50px-Wooden_Wall_Sign.png?version=fe67bf9351de40186ba749e8d8b20138</icon>
+			</item>
+			<item type="dict">
+				<ep_to_unlock type="int">6</ep_to_unlock>
+				<name type="str">Wooden Ceiling</name>
+				<icon type="str">https://hydra-media.cursecdn.com/ark.gamepedia.com/thumb/c/cf/Wooden_Ceiling.png/50px-Wooden_Ceiling.png?version=2aed20286a87364e623375a93c73e116</icon>
+			</item>
+			<item type="dict">
+				<ep_to_unlock type="int">3</ep_to_unlock>
+				<name type="str">Sloped Wood Wall Left</name>
+				<icon type="str">https://hydra-media.cursecdn.com/ark.gamepedia.com/thumb/9/9a/Sloped_Wood_Wall_Left.png/50px-Sloped_Wood_Wall_Left.png?version=04c4f07772f05614aaf361fa3c294868</icon>
+			</item>
+			<item type="dict">
+				<ep_to_unlock type="int">3</ep_to_unlock>
+				<name type="str">Sloped Wood Wall Right</name>
+				<icon type="str">https://hydra-media.cursecdn.com/ark.gamepedia.com/thumb/2/29/Sloped_Wood_Wall_Right.png/50px-Sloped_Wood_Wall_Right.png?version=521235ac03ac2610e9dd94cc027ceb8e</icon>
+			</item>
+			<item type="dict">
+				<ep_to_unlock type="int">4</ep_to_unlock>
+				<name type="str">Sloped Wooden Roof</name>
+				<icon type="str">https://hydra-media.cursecdn.com/ark.gamepedia.com/thumb/f/f6/Sloped_Wooden_Roof.png/50px-Sloped_Wooden_Roof.png?version=bd2ef202d67ef9d60252fcd27b8b1157</icon>
+			</item>
+			<item type="dict">
+				<ep_to_unlock type="int">6</ep_to_unlock>
+				<name type="str">Wooden Doorframe</name>
+				<icon type="str">https://hydra-media.cursecdn.com/ark.gamepedia.com/thumb/8/8c/Wooden_Doorframe.png/50px-Wooden_Doorframe.png?version=97e37944d3e97df323a4e404ea299b61</icon>
+			</item>
+			<item type="dict">
+				<ep_to_unlock type="int">4</ep_to_unlock>
+				<name type="str">Wooden Door</name>
+				<icon type="str">https://hydra-media.cursecdn.com/ark.gamepedia.com/thumb/2/2c/Wooden_Door.png/50px-Wooden_Door.png?version=fb4d1e7c06fc60c15ce0090fab1d63f2</icon>
+			</item>
+			<item type="dict">
+				<ep_to_unlock type="int">6</ep_to_unlock>
+				<name type="str">Wooden Chair</name>
+				<icon type="str">https://hydra-media.cursecdn.com/ark.gamepedia.com/thumb/8/87/Wooden_Chair.png/50px-Wooden_Chair.png?version=b35c421b71d640d25168d43b0f80c161</icon>
+			</item>
+			<item type="dict">
+				<ep_to_unlock type="int">3</ep_to_unlock>
+				<name type="str">Wooden Railing</name>
+				<icon type="str">https://hydra-media.cursecdn.com/ark.gamepedia.com/thumb/7/7b/Wooden_Railing.png/50px-Wooden_Railing.png?version=21b56554ec32f3703cfc02e10df33169</icon>
+			</item>
+			<item type="dict">
+				<ep_to_unlock type="int">7</ep_to_unlock>
+				<name type="str">Wooden Shield</name>
+				<icon type="str">https://hydra-media.cursecdn.com/ark.gamepedia.com/thumb/6/61/Wooden_Shield.png/50px-Wooden_Shield.png?version=aa1438bb2e8c49b04377aa633b31af3c</icon>
+			</item>
+			<item type="dict">
+				<ep_to_unlock type="int">10</ep_to_unlock>
+				<name type="str">Wooden Cage</name>
+				<icon type="str">https://hydra-media.cursecdn.com/ark.gamepedia.com/thumb/4/4b/Wooden_Cage.png/50px-Wooden_Cage.png?version=f8de2b45162ee29c46f5241e261a16cb</icon>
+			</item>
+			<item type="dict">
+				<ep_to_unlock type="int">8</ep_to_unlock>
+				<name type="str">Bola</name>
+				<icon type="str">https://hydra-media.cursecdn.com/ark.gamepedia.com/thumb/a/ae/Bola.png/50px-Bola.png?version=20499be9bd287420a3704f40a5d4f941</icon>
+			</item>
+			<item type="dict">
+				<ep_to_unlock type="int">8</ep_to_unlock>
+				<name type="str">Training Dummy</name>
+				<icon type="str">https://hydra-media.cursecdn.com/ark.gamepedia.com/thumb/4/49/Training_Dummy.png/50px-Training_Dummy.png?version=27def89a2a599fbc89ddb2ce54af7023</icon>
+			</item>
+			<item type="dict">
+				<ep_to_unlock type="int">5</ep_to_unlock>
+				<name type="str">Rope Ladder</name>
+				<icon type="str">https://hydra-media.cursecdn.com/ark.gamepedia.com/thumb/e/e1/Rope_Ladder.png/50px-Rope_Ladder.png?version=9ebb345267a77c394c21777f3426f074</icon>
+			</item>
+			<item type="dict">
+				<ep_to_unlock type="int">10</ep_to_unlock>
+				<name type="str">Wooden Staircase</name>
+				<icon type="str">https://hydra-media.cursecdn.com/ark.gamepedia.com/thumb/c/c2/Wooden_Staircase.png/50px-Wooden_Staircase.png?version=ea3d4c9d0b0c0740ad8df730d9eb2686</icon>
+			</item>
+			<item type="dict">
+				<ep_to_unlock type="int">6</ep_to_unlock>
+				<name type="str">Wooden Fence Foundation</name>
+				<icon type="str">https://hydra-media.cursecdn.com/ark.gamepedia.com/thumb/f/f3/Wooden_Fence_Foundation.png/50px-Wooden_Fence_Foundation.png?version=92813ff35ad4f6fe7eaed7ebdd7cbc6d</icon>
+			</item>
+			<item type="dict">
+				<ep_to_unlock type="int">9</ep_to_unlock>
+				<name type="str">Hide Pants</name>
+				<icon type="str">https://hydra-media.cursecdn.com/ark.gamepedia.com/thumb/4/44/Hide_Pants.png/50px-Hide_Pants.png?version=9102263693f67c6a08764b313ccd7e11</icon>
+			</item>
+			<item type="dict">
+				<ep_to_unlock type="int">6</ep_to_unlock>
+				<name type="str">Hide Shirt</name>
+				<icon type="str">https://hydra-media.cursecdn.com/ark.gamepedia.com/thumb/f/f3/Hide_Shirt.png/50px-Hide_Shirt.png?version=7cd081ed8c380fef59ad83428ecb5670</icon>
+			</item>
+			<item type="dict">
+				<ep_to_unlock type="int">11</ep_to_unlock>
+				<name type="str">Bow</name>
+				<icon type="str">https://hydra-media.cursecdn.com/ark.gamepedia.com/thumb/6/65/Bow.png/50px-Bow.png?version=eaa3665429dbc78c1fc62f9b450ee23d</icon>
+			</item>
+			<item type="dict">
+				<ep_to_unlock type="int">2</ep_to_unlock>
+				<name type="str">Stone Arrow</name>
+				<icon type="str">https://hydra-media.cursecdn.com/ark.gamepedia.com/thumb/2/28/Stone_Arrow.png/50px-Stone_Arrow.png?version=b3597e2fbfc4ab275fa3e37cb53ddc62</icon>
+			</item>
+			<item type="dict">
+				<ep_to_unlock type="int">9</ep_to_unlock>
+				<name type="str">Large Storage Box</name>
+				<icon type="str">https://hydra-media.cursecdn.com/ark.gamepedia.com/thumb/1/1d/Large_Storage_Box.png/50px-Large_Storage_Box.png?version=2f8a7f85f17b987a5f61a99baca91787</icon>
+			</item>
+			<item type="dict">
+				<ep_to_unlock type="int">11</ep_to_unlock>
+				<name type="str">Wooden Raft</name>
+				<icon type="str">https://hydra-media.cursecdn.com/ark.gamepedia.com/thumb/d/d8/Wooden_Raft.png/50px-Wooden_Raft.png?version=91b7de05245b2be5df8845caf7552b12</icon>
+			</item>
+			<item type="dict">
+				<ep_to_unlock type="int">6</ep_to_unlock>
+				<name type="str">Parachute</name>
+				<icon type="str">https://hydra-media.cursecdn.com/ark.gamepedia.com/thumb/8/86/Parachute.png/50px-Parachute.png?version=8b73b051d00b935292927b8d2f5975aa</icon>
+			</item>
+			<item type="dict">
+				<ep_to_unlock type="int">12</ep_to_unlock>
+				<name type="str">Bug Repellant</name>
+				<icon type="str">https://hydra-media.cursecdn.com/ark.gamepedia.com/thumb/4/47/Bug_Repellant.png/50px-Bug_Repellant.png?version=4c4e5fb74f2118fc5303cd5473f8b2f3</icon>
+			</item>
+			<item type="dict">
+				<ep_to_unlock type="int">9</ep_to_unlock>
+				<name type="str">Pachy Saddle</name>
+				<icon type="str">https://hydra-media.cursecdn.com/ark.gamepedia.com/thumb/9/9a/Pachy_Saddle.png/50px-Pachy_Saddle.png?version=25cb32f68adf79f149d6c69ed704af08</icon>
+			</item>
+			<item type="dict">
+				<ep_to_unlock type="int">9</ep_to_unlock>
+				<name type="str">Raptor Saddle</name>
+				<icon type="str">https://hydra-media.cursecdn.com/ark.gamepedia.com/thumb/4/4b/Raptor_Saddle.png/50px-Raptor_Saddle.png?version=d1e99ba30b1ec72edca124b34df83e8d</icon>
+			</item>
+			<item type="dict">
+				<ep_to_unlock type="int">5</ep_to_unlock>
+				<name type="str">Stone Irrigation Pipe - Intersection</name>
+				<icon type="str">https://hydra-media.cursecdn.com/ark.gamepedia.com/thumb/9/96/Stone_Irrigation_Pipe_-_Intersection.png/50px-Stone_Irrigation_Pipe_-_Intersection.png?version=ebd8d6c086bdcb7f1842b1394ac67a7b</icon>
+			</item>
+			<item type="dict">
+				<ep_to_unlock type="int">3</ep_to_unlock>
+				<name type="str">Stone Irrigation Pipe - Inclined</name>
+				<icon type="str">https://hydra-media.cursecdn.com/ark.gamepedia.com/thumb/f/fc/Stone_Irrigation_Pipe_-_Inclined.png/50px-Stone_Irrigation_Pipe_-_Inclined.png?version=eb9621a3438926bbc9303308148a8273</icon>
+			</item>
+			<item type="dict">
+				<ep_to_unlock type="int">3</ep_to_unlock>
+				<name type="str">Stone Irrigation Pipe - Vertical</name>
+				<icon type="str">https://hydra-media.cursecdn.com/ark.gamepedia.com/thumb/d/d7/Stone_Irrigation_Pipe_-_Vertical.png/50px-Stone_Irrigation_Pipe_-_Vertical.png?version=f66f5d7c968f079070bde3678c65bffe</icon>
+			</item>
+			<item type="dict">
+				<ep_to_unlock type="int">6</ep_to_unlock>
+				<name type="str">Compost Bin</name>
+				<icon type="str">https://hydra-media.cursecdn.com/ark.gamepedia.com/thumb/e/e1/Compost_Bin.png/50px-Compost_Bin.png?version=b69588599dea8e0acefc18d18cb88055</icon>
+			</item>
+			<item type="dict">
+				<ep_to_unlock type="int">6</ep_to_unlock>
+				<name type="str">Stone Fence Foundation</name>
+				<icon type="str">https://hydra-media.cursecdn.com/ark.gamepedia.com/thumb/c/c0/Stone_Fence_Foundation.png/50px-Stone_Fence_Foundation.png?version=4cd7e521086d4a8ba3db611cfa0b02f8</icon>
+			</item>
+			<item type="dict">
+				<ep_to_unlock type="int">8</ep_to_unlock>
+				<name type="str">Stone Wall</name>
+				<icon type="str">https://hydra-media.cursecdn.com/ark.gamepedia.com/thumb/1/1e/Stone_Wall.png/50px-Stone_Wall.png?version=96b8316cf949f6ac8e8b181bc5bf35f7</icon>
+			</item>
+			<item type="dict">
+				<ep_to_unlock type="int">7</ep_to_unlock>
+				<name type="str">Water Reservoir</name>
+				<icon type="str">https://hydra-media.cursecdn.com/ark.gamepedia.com/thumb/2/2c/Water_Reservoir.png/50px-Water_Reservoir.png?version=87446665a6fbdc39b5bc88f354fddf13</icon>
+			</item>
+			<item type="dict">
+				<ep_to_unlock type="int">4</ep_to_unlock>
+				<name type="str">Wooden Billboard</name>
+				<icon type="str">https://hydra-media.cursecdn.com/ark.gamepedia.com/thumb/0/01/Wooden_Billboard.png/50px-Wooden_Billboard.png?version=bd94d65669f6bfef22429c9eda1fdc7d</icon>
+			</item>
+			<item type="dict">
+				<ep_to_unlock type="int">3</ep_to_unlock>
+				<name type="str">Wooden Ramp</name>
+				<icon type="str">https://hydra-media.cursecdn.com/ark.gamepedia.com/thumb/f/f4/Wooden_Ramp.png/50px-Wooden_Ramp.png?version=a1ec7ad8247ae9fac0513c95c0769ec8</icon>
+			</item>
+			<item type="dict">
+				<ep_to_unlock type="int">7</ep_to_unlock>
+				<name type="str">Dinosaur Gateway</name>
+				<icon type="str">https://hydra-media.cursecdn.com/ark.gamepedia.com/thumb/a/a8/Dinosaur_Gateway.png/50px-Dinosaur_Gateway.png?version=5d3219b6909d820aae4464a37aef4cbd</icon>
+			</item>
+			<item type="dict">
+				<ep_to_unlock type="int">5</ep_to_unlock>
+				<name type="str">Dinosaur Gate</name>
+				<icon type="str">https://hydra-media.cursecdn.com/ark.gamepedia.com/thumb/b/b7/Dinosaur_Gate.png/50px-Dinosaur_Gate.png?version=1e944b5e67a3f1542471707adeb09a51</icon>
+			</item>
+			<item type="dict">
+				<ep_to_unlock type="int">9</ep_to_unlock>
+				<name type="str">Wooden Pillar</name>
+				<icon type="str">https://hydra-media.cursecdn.com/ark.gamepedia.com/thumb/3/39/Wooden_Pillar.png/50px-Wooden_Pillar.png?version=246492a1c850a549ef63c4ab99110ed4</icon>
+			</item>
+			<item type="dict">
+				<ep_to_unlock type="int">9</ep_to_unlock>
+				<name type="str">Wooden Hatchframe</name>
+				<icon type="str">https://hydra-media.cursecdn.com/ark.gamepedia.com/thumb/9/9a/Wooden_Hatchframe.png/50px-Wooden_Hatchframe.png?version=eee7af36ba1afbfe4c5beeb4061bd713</icon>
+			</item>
+			<item type="dict">
+				<ep_to_unlock type="int">6</ep_to_unlock>
+				<name type="str">Wooden Ladder</name>
+				<icon type="str">https://hydra-media.cursecdn.com/ark.gamepedia.com/thumb/c/c7/Wooden_Ladder.png/50px-Wooden_Ladder.png?version=80ebb238d29a148723fb843ed6c432e3</icon>
+			</item>
+			<item type="dict">
+				<ep_to_unlock type="int">12</ep_to_unlock>
+				<name type="str">Feeding Trough</name>
+				<icon type="str">https://hydra-media.cursecdn.com/ark.gamepedia.com/thumb/e/ec/Feeding_Trough.png/50px-Feeding_Trough.png?version=b2e44c1c41f5977fdd0e02b2d3804d68</icon>
+			</item>
+			<item type="dict">
+				<ep_to_unlock type="int">10</ep_to_unlock>
+				<name type="str">Wooden Bench</name>
+				<icon type="str">https://hydra-media.cursecdn.com/ark.gamepedia.com/thumb/f/fa/Wooden_Bench.png/50px-Wooden_Bench.png?version=c7936b1740dd04a2959f2e5541ec13c5</icon>
+			</item>
+			<item type="dict">
+				<ep_to_unlock type="int">7</ep_to_unlock>
+				<name type="str">Wooden Table</name>
+				<icon type="str">https://hydra-media.cursecdn.com/ark.gamepedia.com/thumb/f/f4/Wooden_Table.png/50px-Wooden_Table.png?version=36c3ee9985f269d7e37d71eea6236fef</icon>
+			</item>
+			<item type="dict">
+				<ep_to_unlock type="int">2</ep_to_unlock>
+				<name type="str">Painting Canvas</name>
+				<icon type="str">https://hydra-media.cursecdn.com/ark.gamepedia.com/thumb/a/a1/Painting_Canvas.png/50px-Painting_Canvas.png?version=1a7a398ed2b48037913f742e80cd55b9</icon>
+			</item>
+			<item type="dict">
+				<ep_to_unlock type="int">7</ep_to_unlock>
+				<name type="str">Hide Gloves</name>
+				<icon type="str">https://hydra-media.cursecdn.com/ark.gamepedia.com/thumb/0/09/Hide_Gloves.png/50px-Hide_Gloves.png?version=648e274a6859ce5a8756af12e823695e</icon>
+			</item>
+			<item type="dict">
+				<ep_to_unlock type="int">7</ep_to_unlock>
+				<name type="str">Hide Boots</name>
+				<icon type="str">https://hydra-media.cursecdn.com/ark.gamepedia.com/thumb/5/56/Hide_Boots.png/50px-Hide_Boots.png?version=e20df5d129e7b4961696e4c6e1b2124f</icon>
+			</item>
+			<item type="dict">
+				<ep_to_unlock type="int">9</ep_to_unlock>
+				<name type="str">Hide Hat</name>
+				<icon type="str">https://hydra-media.cursecdn.com/ark.gamepedia.com/thumb/9/92/Hide_Hat.png/50px-Hide_Hat.png?version=29d556472b2860e527575eef011fbcc3</icon>
+			</item>
+			<item type="dict">
+				<ep_to_unlock type="int">16</ep_to_unlock>
+				<name type="str">Magnifying Glass</name>
+				<icon type="str">https://hydra-media.cursecdn.com/ark.gamepedia.com/thumb/5/5f/Magnifying_Glass.png/50px-Magnifying_Glass.png?version=070fedd930b335dd12680aa613afef1c</icon>
+			</item>
+			<item type="dict">
+				<ep_to_unlock type="int">8</ep_to_unlock>
+				<name type="str">Tranquilizer Arrow</name>
+				<icon type="str">https://hydra-media.cursecdn.com/ark.gamepedia.com/thumb/b/be/Tranquilizer_Arrow.png/50px-Tranquilizer_Arrow.png?version=3bb71f88b63ad22de57a8aa6528074b4</icon>
+			</item>
+			<item type="dict">
+				<ep_to_unlock type="int">21</ep_to_unlock>
+				<name type="str">Refining Forge</name>
+				<icon type="str">https://hydra-media.cursecdn.com/ark.gamepedia.com/thumb/9/98/Refining_Forge.png/50px-Refining_Forge.png?version=48b8705e0bf78c5872a5846c89cf5155</icon>
+			</item>
+			<item type="dict">
+				<ep_to_unlock type="int">12</ep_to_unlock>
+				<name type="str">Trike Saddle</name>
+				<icon type="str">https://hydra-media.cursecdn.com/ark.gamepedia.com/thumb/d/de/Trike_Saddle.png/50px-Trike_Saddle.png?version=9d04a0d6daaff26af30aecc053179013</icon>
+			</item>
+			<item type="dict">
+				<ep_to_unlock type="int">7</ep_to_unlock>
+				<name type="str">Tripwire Alarm Trap</name>
+				<icon type="str">https://hydra-media.cursecdn.com/ark.gamepedia.com/thumb/d/d5/Tripwire_Alarm_Trap.png/50px-Tripwire_Alarm_Trap.png?version=8a32933d54022ebf85abe8c11df2d350</icon>
+			</item>
+			<item type="dict">
+				<ep_to_unlock type="int">10</ep_to_unlock>
+				<name type="str">Trophy Base</name>
+				<icon type="str">https://hydra-media.cursecdn.com/ark.gamepedia.com/thumb/8/85/Trophy_Base.png/50px-Trophy_Base.png?version=77ed3e881fe064c12e2e7a6858846d69</icon>
+			</item>
+			<item type="dict">
+				<ep_to_unlock type="int">10</ep_to_unlock>
+				<name type="str">Trophy Wall-Mount</name>
+				<icon type="str">https://hydra-media.cursecdn.com/ark.gamepedia.com/thumb/f/f3/Trophy_Wall-Mount.png/50px-Trophy_Wall-Mount.png?version=cf6fe2183e222f53696b5e0e58c9752b</icon>
+			</item>
+			<item type="dict">
+				<ep_to_unlock type="int">9</ep_to_unlock>
+				<name type="str">Preserving Bin</name>
+				<icon type="str">https://hydra-media.cursecdn.com/ark.gamepedia.com/thumb/0/09/Preserving_Bin.png/50px-Preserving_Bin.png?version=847cc151c79227b1c89b2ede3e6c5511</icon>
+			</item>
+			<item type="dict">
+				<ep_to_unlock type="int">8</ep_to_unlock>
+				<name type="str">Wooden Catwalk</name>
+				<icon type="str">https://hydra-media.cursecdn.com/ark.gamepedia.com/thumb/c/c3/Wooden_Catwalk.png/50px-Wooden_Catwalk.png?version=95870d1c512348013d3857a27273c8a4</icon>
+			</item>
+			<item type="dict">
+				<ep_to_unlock type="int">6</ep_to_unlock>
+				<name type="str">Wooden Trapdoor</name>
+				<icon type="str">https://hydra-media.cursecdn.com/ark.gamepedia.com/thumb/f/f1/Wooden_Trapdoor.png/50px-Wooden_Trapdoor.png?version=f03a44ed7a01665e40cebd47620008bf</icon>
+			</item>
+			<item type="dict">
+				<ep_to_unlock type="int">9</ep_to_unlock>
+				<name type="str">Wooden Windowframe</name>
+				<icon type="str">https://hydra-media.cursecdn.com/ark.gamepedia.com/thumb/0/0b/Wooden_Windowframe.png/50px-Wooden_Windowframe.png?version=6ad4ffdc03b0e26df7b12decccac8ecd</icon>
+			</item>
+			<item type="dict">
+				<ep_to_unlock type="int">6</ep_to_unlock>
+				<name type="str">Stone Foundation</name>
+				<icon type="str">https://hydra-media.cursecdn.com/ark.gamepedia.com/thumb/f/f6/Stone_Foundation.png/50px-Stone_Foundation.png?version=c146f002a80c764519cd975e505ddf5b</icon>
+			</item>
+			<item type="dict">
+				<ep_to_unlock type="int">6</ep_to_unlock>
+				<name type="str">Stone Ceiling</name>
+				<icon type="str">https://hydra-media.cursecdn.com/ark.gamepedia.com/thumb/d/d0/Stone_Ceiling.png/50px-Stone_Ceiling.png?version=d92b4c031a2dca1a0f3f885d978880c9</icon>
+			</item>
+			<item type="dict">
+				<ep_to_unlock type="int">3</ep_to_unlock>
+				<name type="str">Sloped Stone Wall Left</name>
+				<icon type="str">https://hydra-media.cursecdn.com/ark.gamepedia.com/thumb/a/a2/Sloped_Stone_Wall_Left.png/50px-Sloped_Stone_Wall_Left.png?version=215a4c8f50dae26917d5dcb9152562e7</icon>
+			</item>
+			<item type="dict">
+				<ep_to_unlock type="int">3</ep_to_unlock>
+				<name type="str">Sloped Stone Wall Right</name>
+				<icon type="str">https://hydra-media.cursecdn.com/ark.gamepedia.com/thumb/f/f6/Sloped_Stone_Wall_Right.png/50px-Sloped_Stone_Wall_Right.png?version=e3048b0315b6279037a68ca783fb23d7</icon>
+			</item>
+			<item type="dict">
+				<ep_to_unlock type="int">4</ep_to_unlock>
+				<name type="str">Sloped Stone Roof</name>
+				<icon type="str">https://hydra-media.cursecdn.com/ark.gamepedia.com/thumb/b/b9/Sloped_Stone_Roof.png/50px-Sloped_Stone_Roof.png?version=a7f18be943bfbdc1996e8e8534e7bc84</icon>
+			</item>
+			<item type="dict">
+				<ep_to_unlock type="int">6</ep_to_unlock>
+				<name type="str">Stone Doorframe</name>
+				<icon type="str">https://hydra-media.cursecdn.com/ark.gamepedia.com/thumb/4/41/Stone_Doorframe.png/50px-Stone_Doorframe.png?version=beda4b81e5f383fb1d9e129c1edcd354</icon>
+			</item>
+			<item type="dict">
+				<ep_to_unlock type="int">4</ep_to_unlock>
+				<name type="str">Reinforced Wooden Door</name>
+				<icon type="str">https://hydra-media.cursecdn.com/ark.gamepedia.com/thumb/4/47/Reinforced_Wooden_Door.png/50px-Reinforced_Wooden_Door.png?version=a7263af69063c6fcebac56a8185cce97</icon>
+			</item>
+			<item type="dict">
+				<ep_to_unlock type="int">9</ep_to_unlock>
+				<name type="str">Stone Dinosaur Gateway</name>
+				<icon type="str">https://hydra-media.cursecdn.com/ark.gamepedia.com/thumb/6/6b/Stone_Dinosaur_Gateway.png/50px-Stone_Dinosaur_Gateway.png?version=ff05d829aebb84d4098c256f02697e14</icon>
+			</item>
+			<item type="dict">
+				<ep_to_unlock type="int">6</ep_to_unlock>
+				<name type="str">Reinforced Dinosaur Gate</name>
+				<icon type="str">https://hydra-media.cursecdn.com/ark.gamepedia.com/thumb/0/0d/Reinforced_Dinosaur_Gate.png/50px-Reinforced_Dinosaur_Gate.png?version=4786ec6a348ebbc8af092e40e70d1e6c</icon>
+			</item>
+			<item type="dict">
+				<ep_to_unlock type="int">15</ep_to_unlock>
+				<name type="str">Bookshelf</name>
+				<icon type="str">https://hydra-media.cursecdn.com/ark.gamepedia.com/thumb/f/f7/Bookshelf.png/50px-Bookshelf.png?version=b2a1148f14baddad9205bdb3476d7702</icon>
+			</item>
+			<item type="dict">
+				<ep_to_unlock type="int">4</ep_to_unlock>
+				<name type="str">Stone Railing</name>
+				<icon type="str">https://hydra-media.cursecdn.com/ark.gamepedia.com/thumb/1/1b/Stone_Railing.png/50px-Stone_Railing.png?version=94947301e3fbf889cc0b534b10d3e1e4</icon>
+			</item>
+			<item type="dict">
+				<ep_to_unlock type="int">16</ep_to_unlock>
+				<name type="str">Lesser Antidote</name>
+				<icon type="str">https://hydra-media.cursecdn.com/ark.gamepedia.com/thumb/8/84/Lesser_Antidote.png/50px-Lesser_Antidote.png?version=8363f95c2515e6d7fd9f3a0980116077</icon>
+			</item>
+			<item type="dict">
+				<ep_to_unlock type="int">20</ep_to_unlock>
+				<name type="str">Stone Staircase</name>
+				<icon type="str">https://hydra-media.cursecdn.com/ark.gamepedia.com/thumb/0/09/Stone_Staircase.png/50px-Stone_Staircase.png?version=e95ee08a95fa074aba47ed4aa222700e</icon>
+			</item>
+			<item type="dict">
+				<ep_to_unlock type="int">15</ep_to_unlock>
+				<name type="str">Fishing Rod</name>
+				<icon type="str">https://hydra-media.cursecdn.com/ark.gamepedia.com/thumb/c/c7/Fishing_Rod.png/50px-Fishing_Rod.png?version=5747e5ce7082e9cbc8254e237b7184fe</icon>
+			</item>
+			<item type="dict">
+				<ep_to_unlock type="int">18</ep_to_unlock>
+				<name type="str">Smithy</name>
+				<icon type="str">https://hydra-media.cursecdn.com/ark.gamepedia.com/thumb/b/b9/Smithy.png/50px-Smithy.png?version=409c2dfa102e0659f78a9d9977c9d140</icon>
+			</item>
+			<item type="dict">
+				<ep_to_unlock type="int">11</ep_to_unlock>
+				<name type="str">Metal Spike Wall</name>
+				<icon type="str">https://hydra-media.cursecdn.com/ark.gamepedia.com/thumb/3/3a/Metal_Spike_Wall.png/50px-Metal_Spike_Wall.png?version=afb6f451adf2d2593ba3b7c3837eb2ac</icon>
+			</item>
+			<item type="dict">
+				<ep_to_unlock type="int">6</ep_to_unlock>
+				<name type="str">Metal Pick</name>
+				<icon type="str">https://hydra-media.cursecdn.com/ark.gamepedia.com/thumb/9/9f/Metal_Pick.png/50px-Metal_Pick.png?version=dfec07dbb68ada8d931aa962bbbf3f74</icon>
+			</item>
+			<item type="dict">
+				<ep_to_unlock type="int">6</ep_to_unlock>
+				<name type="str">Metal Hatchet</name>
+				<icon type="str">https://hydra-media.cursecdn.com/ark.gamepedia.com/thumb/a/a6/Metal_Hatchet.png/50px-Metal_Hatchet.png?version=31d6a4eb0a7a32ec4644cefc3b36deff</icon>
+			</item>
+			<item type="dict">
+				<ep_to_unlock type="int">10</ep_to_unlock>
+				<name type="str">Pike</name>
+				<icon type="str">https://hydra-media.cursecdn.com/ark.gamepedia.com/thumb/3/31/Pike.png/50px-Pike.png?version=a841a1fa57ea48a9a19e9e5407aabc61</icon>
+			</item>
+			<item type="dict">
+				<ep_to_unlock type="int">12</ep_to_unlock>
+				<name type="str">Fur Boots</name>
+				<icon type="str">https://hydra-media.cursecdn.com/ark.gamepedia.com/thumb/6/63/Fur_Boots.png/50px-Fur_Boots.png?version=a41018724d65a0eedb53ba779ab1ee31</icon>
+			</item>
+			<item type="dict">
+				<ep_to_unlock type="int">12</ep_to_unlock>
+				<name type="str">Fur Gauntlets</name>
+				<icon type="str">https://hydra-media.cursecdn.com/ark.gamepedia.com/thumb/c/c5/Fur_Gauntlets.png/50px-Fur_Gauntlets.png?version=9f9c91b71771d2f6d26a62611bcb8bf4</icon>
+			</item>
+			<item type="dict">
+				<ep_to_unlock type="int">14</ep_to_unlock>
+				<name type="str">Fur Cap</name>
+				<icon type="str">https://hydra-media.cursecdn.com/ark.gamepedia.com/thumb/f/fe/Fur_Cap.png/50px-Fur_Cap.png?version=ddd82ed81ef4d86120c9e11ae94b1700</icon>
+			</item>
+			<item type="dict">
+				<ep_to_unlock type="int">16</ep_to_unlock>
+				<name type="str">Fur Leggings</name>
+				<icon type="str">https://hydra-media.cursecdn.com/ark.gamepedia.com/thumb/9/9c/Fur_Leggings.png/50px-Fur_Leggings.png?version=c61afc0d1e7dbf9e2d365c00af963a4d</icon>
+			</item>
+			<item type="dict">
+				<ep_to_unlock type="int">16</ep_to_unlock>
+				<name type="str">Fur Chestpiece</name>
+				<icon type="str">https://hydra-media.cursecdn.com/ark.gamepedia.com/thumb/b/b3/Fur_Chestpiece.png/50px-Fur_Chestpiece.png?version=8b5101713db6b0d7eac49ec95339749b</icon>
+			</item>
+			<item type="dict">
+				<ep_to_unlock type="int">12</ep_to_unlock>
+				<name type="str">Crossbow</name>
+				<icon type="str">https://hydra-media.cursecdn.com/ark.gamepedia.com/thumb/7/79/Crossbow.png/50px-Crossbow.png?version=171db52a81688bed1c43afbd2ecfe277</icon>
+			</item>
+			<item type="dict">
+				<ep_to_unlock type="int">9</ep_to_unlock>
+				<name type="str">Tripwire Narcotic Trap</name>
+				<icon type="str">https://hydra-media.cursecdn.com/ark.gamepedia.com/thumb/a/ab/Tripwire_Narcotic_Trap.png/50px-Tripwire_Narcotic_Trap.png?version=302822d99186e9eb1cfd526123d9ce7a</icon>
+			</item>
+			<item type="dict">
+				<ep_to_unlock type="int">12</ep_to_unlock>
+				<name type="str">Pulmonoscorpius Saddle</name>
+				<icon type="str">https://hydra-media.cursecdn.com/ark.gamepedia.com/thumb/7/7a/Pulmonoscorpius_Saddle.png/50px-Pulmonoscorpius_Saddle.png?version=4ea7d54182cc2c6050403ba2d793c264</icon>
+			</item>
+			<item type="dict">
+				<ep_to_unlock type="int">12</ep_to_unlock>
+				<name type="str">Carbonemys Saddle</name>
+				<icon type="str">https://hydra-media.cursecdn.com/ark.gamepedia.com/thumb/a/ac/Carbonemys_Saddle.png/50px-Carbonemys_Saddle.png?version=db2429fcfa4de3966008e75f9bb4ef6d</icon>
+			</item>
+			<item type="dict">
+				<ep_to_unlock type="int">16</ep_to_unlock>
+				<name type="str">Beelzebufo Saddle</name>
+				<icon type="str">https://hydra-media.cursecdn.com/ark.gamepedia.com/thumb/b/b2/Beelzebufo_Saddle.png/50px-Beelzebufo_Saddle.png?version=45f38cb040d0d75c6d3c610246d2b6bf</icon>
+			</item>
+			<item type="dict">
+				<ep_to_unlock type="int">15</ep_to_unlock>
+				<name type="str">Terror Bird Saddle</name>
+				<icon type="str">https://hydra-media.cursecdn.com/ark.gamepedia.com/thumb/9/96/Terror_Bird_Saddle.png/50px-Terror_Bird_Saddle.png?version=9b8570b6fdb56001d74af4dee5306b8e</icon>
+			</item>
+			<item type="dict">
+				<ep_to_unlock type="int">16</ep_to_unlock>
+				<name type="str">Manta Saddle</name>
+				<icon type="str">https://hydra-media.cursecdn.com/ark.gamepedia.com/thumb/1/1b/Manta_Saddle.png/50px-Manta_Saddle.png?version=8d6770691686b762e4e72d59e9327332</icon>
+			</item>
+			<item type="dict">
+				<ep_to_unlock type="int">12</ep_to_unlock>
+				<name type="str">Medium Crop Plot</name>
+				<icon type="str">https://hydra-media.cursecdn.com/ark.gamepedia.com/thumb/d/d0/Medium_Crop_Plot.png/50px-Medium_Crop_Plot.png?version=6c5f6f87cd8130b05af1c586914f341b</icon>
+			</item>
+			<item type="dict">
+				<ep_to_unlock type="int">10</ep_to_unlock>
+				<name type="str">Metal Sign</name>
+				<icon type="str">https://hydra-media.cursecdn.com/ark.gamepedia.com/thumb/a/ad/Metal_Sign.png/50px-Metal_Sign.png?version=43243d8589ef24f4396e6748146423df</icon>
+			</item>
+			<item type="dict">
+				<ep_to_unlock type="int">8</ep_to_unlock>
+				<name type="str">Stone Pillar</name>
+				<icon type="str">https://hydra-media.cursecdn.com/ark.gamepedia.com/thumb/6/60/Stone_Pillar.png/50px-Stone_Pillar.png?version=a34a9996ecc14a826fc9b26696ac3f4a</icon>
+			</item>
+			<item type="dict">
+				<ep_to_unlock type="int">8</ep_to_unlock>
+				<name type="str">Stone Hatchframe</name>
+				<icon type="str">https://hydra-media.cursecdn.com/ark.gamepedia.com/thumb/a/ae/Stone_Hatchframe.png/50px-Stone_Hatchframe.png?version=221473d73fbee821b711f0277d5999be</icon>
+			</item>
+			<item type="dict">
+				<ep_to_unlock type="int">11</ep_to_unlock>
+				<name type="str">Stone Windowframe</name>
+				<icon type="str">https://hydra-media.cursecdn.com/ark.gamepedia.com/thumb/2/2c/Stone_Windowframe.png/50px-Stone_Windowframe.png?version=c7f088a276920dcbb993608b53b93b09</icon>
+			</item>
+			<item type="dict">
+				<ep_to_unlock type="int">6</ep_to_unlock>
+				<name type="str">Wooden Window</name>
+				<icon type="str">https://hydra-media.cursecdn.com/ark.gamepedia.com/thumb/c/ca/Wooden_Window.png/50px-Wooden_Window.png?version=1b6fe1cd48657a69ef6c6e9e786e5c88</icon>
+			</item>
+			<item type="dict">
+				<ep_to_unlock type="int">9</ep_to_unlock>
+				<name type="str">Bear Trap</name>
+				<icon type="str">https://hydra-media.cursecdn.com/ark.gamepedia.com/thumb/9/92/Bear_Trap.png/50px-Bear_Trap.png?version=9055e41c996e97228613931e7935f81d</icon>
+			</item>
+			<item type="dict">
+				<ep_to_unlock type="int">12</ep_to_unlock>
+				<name type="str">Large Bear Trap</name>
+				<icon type="str">https://hydra-media.cursecdn.com/ark.gamepedia.com/thumb/7/7c/Large_Bear_Trap.png/50px-Large_Bear_Trap.png?version=953592022a11c30270ef1724c4cd735c</icon>
+			</item>
+			<item type="dict">
+				<ep_to_unlock type="int">16</ep_to_unlock>
+				<name type="str">Handcuffs</name>
+				<icon type="str">https://hydra-media.cursecdn.com/ark.gamepedia.com/thumb/1/14/Handcuffs.png/50px-Handcuffs.png?version=b8bcc2c1ab7a367dd909511540004803</icon>
+			</item>
+			<item type="dict">
+				<ep_to_unlock type="int">8</ep_to_unlock>
+				<name type="str">Radio</name>
+				<icon type="str">https://hydra-media.cursecdn.com/ark.gamepedia.com/thumb/3/31/Radio.png/50px-Radio.png?version=2520b3fb85fbcbd7217de87ae5c5a308</icon>
+			</item>
+			<item type="dict">
+				<ep_to_unlock type="int">18</ep_to_unlock>
+				<name type="str">Smoke Grenade</name>
+				<icon type="str">https://hydra-media.cursecdn.com/ark.gamepedia.com/thumb/d/d5/Smoke_Grenade.png/50px-Smoke_Grenade.png?version=a603a1dd1af14cdb6062a55a0a215e1f</icon>
+			</item>
+			<item type="dict">
+				<ep_to_unlock type="int">25</ep_to_unlock>
+				<name type="str">Ballista Turret</name>
+				<icon type="str">https://hydra-media.cursecdn.com/ark.gamepedia.com/thumb/6/65/Ballista_Turret.png/50px-Ballista_Turret.png?version=aab3f15125a207d565d05d38ae0ffab7</icon>
+			</item>
+			<item type="dict">
+				<ep_to_unlock type="int">10</ep_to_unlock>
+				<name type="str">Ballista Bolt</name>
+				<icon type="str">https://hydra-media.cursecdn.com/ark.gamepedia.com/thumb/9/99/Ballista_Bolt.png/50px-Ballista_Bolt.png?version=b12709a0b1d1278440be9bbfb7ddcc61</icon>
+			</item>
+			<item type="dict">
+				<ep_to_unlock type="int">8</ep_to_unlock>
+				<name type="str">Wall Torch</name>
+				<icon type="str">https://hydra-media.cursecdn.com/ark.gamepedia.com/thumb/c/c8/Wall_Torch.png/50px-Wall_Torch.png?version=d2a0a009df3c87da4d688855b5a15d18</icon>
+			</item>
+			<item type="dict">
+				<ep_to_unlock type="int">18</ep_to_unlock>
+				<name type="str">Pachyrhinosaurus Saddle</name>
+				<icon type="str">https://hydra-media.cursecdn.com/ark.gamepedia.com/thumb/4/4f/Pachyrhinosaurus_Saddle.png/50px-Pachyrhinosaurus_Saddle.png?version=b220bab2a049471a010531740bedc577</icon>
+			</item>
+			<item type="dict">
+				<ep_to_unlock type="int">10</ep_to_unlock>
+				<name type="str">Scissors</name>
+				<icon type="str">https://hydra-media.cursecdn.com/ark.gamepedia.com/thumb/9/92/Scissors.png/50px-Scissors.png?version=995aff27e46ce7d5cabfedea8dd37c97</icon>
+			</item>
+			<item type="dict">
+				<ep_to_unlock type="int">12</ep_to_unlock>
+				<name type="str">Behemoth Stone Dinosaur Gateway</name>
+				<icon type="str">https://hydra-media.cursecdn.com/ark.gamepedia.com/thumb/3/3b/Behemoth_Stone_Dinosaur_Gateway.png/50px-Behemoth_Stone_Dinosaur_Gateway.png?version=9d2da419996e78afe7e67ae036567ddb</icon>
+			</item>
+			<item type="dict">
+				<ep_to_unlock type="int">16</ep_to_unlock>
+				<name type="str">Behemoth Reinforced Dinosaur Gate</name>
+				<icon type="str">https://hydra-media.cursecdn.com/ark.gamepedia.com/thumb/9/9d/Behemoth_Reinforced_Dinosaur_Gate.png/50px-Behemoth_Reinforced_Dinosaur_Gate.png?version=b81a56f2356c2e787bd6c988d5b445cc</icon>
+			</item>
+			<item type="dict">
+				<ep_to_unlock type="int">15</ep_to_unlock>
+				<name type="str">Chitin Leggings</name>
+				<icon type="str">https://hydra-media.cursecdn.com/ark.gamepedia.com/thumb/f/fd/Chitin_Leggings.png/50px-Chitin_Leggings.png?version=650cf0577ed9b315bd97d0ab7dde70e4</icon>
+			</item>
+			<item type="dict">
+				<ep_to_unlock type="int">18</ep_to_unlock>
+				<name type="str">Chitin Chestpiece</name>
+				<icon type="str">https://hydra-media.cursecdn.com/ark.gamepedia.com/thumb/f/f1/Chitin_Chestpiece.png/50px-Chitin_Chestpiece.png?version=c0a3f81e81b0889cbfa4ddf026d6bcad</icon>
+			</item>
+			<item type="dict">
+				<ep_to_unlock type="int">18</ep_to_unlock>
+				<name type="str">Chitin Helmet</name>
+				<icon type="str">https://hydra-media.cursecdn.com/ark.gamepedia.com/thumb/7/7b/Chitin_Helmet.png/50px-Chitin_Helmet.png?version=1424f9326662c879c21a3625093c22f7</icon>
+			</item>
+			<item type="dict">
+				<ep_to_unlock type="int">25</ep_to_unlock>
+				<name type="str">Catapult Turret</name>
+				<icon type="str">https://hydra-media.cursecdn.com/ark.gamepedia.com/thumb/2/22/Catapult_Turret.png/50px-Catapult_Turret.png?version=60eec6e30d1d1c26e59e451f7594dd19</icon>
+			</item>
+			<item type="dict">
+				<ep_to_unlock type="int">12</ep_to_unlock>
+				<name type="str">Water Jar</name>
+				<icon type="str">https://hydra-media.cursecdn.com/ark.gamepedia.com/thumb/4/47/Water_Jar.png/50px-Water_Jar.png?version=06153635f68d68125bc03b013ae3e358</icon>
+			</item>
+			<item type="dict">
+				<ep_to_unlock type="int">15</ep_to_unlock>
+				<name type="str">Simple Pistol</name>
+				<icon type="str">https://hydra-media.cursecdn.com/ark.gamepedia.com/thumb/d/d0/Simple_Pistol.png/50px-Simple_Pistol.png?version=c493cbbc84b2ecc30df3a3fe803f0229</icon>
+			</item>
+			<item type="dict">
+				<ep_to_unlock type="int">6</ep_to_unlock>
+				<name type="str">Simple Bullet</name>
+				<icon type="str">https://hydra-media.cursecdn.com/ark.gamepedia.com/thumb/8/88/Simple_Bullet.png/50px-Simple_Bullet.png?version=d3b35224f4e743113283d67a5c3625fd</icon>
+			</item>
+			<item type="dict">
+				<ep_to_unlock type="int">13</ep_to_unlock>
+				<name type="str">Scope Attachment</name>
+				<icon type="str">https://hydra-media.cursecdn.com/ark.gamepedia.com/thumb/b/b3/Scope_Attachment.png/50px-Scope_Attachment.png?version=701e818832fb6878d0ddc506355d6799</icon>
+			</item>
+			<item type="dict">
+				<ep_to_unlock type="int">12</ep_to_unlock>
+				<name type="str">Metal Sickle</name>
+				<icon type="str">https://hydra-media.cursecdn.com/ark.gamepedia.com/thumb/e/e0/Metal_Sickle.png/50px-Metal_Sickle.png?version=a819788dca4c80c46abf9edb6b25ad65</icon>
+			</item>
+			<item type="dict">
+				<ep_to_unlock type="int">15</ep_to_unlock>
+				<name type="str">Stego Saddle</name>
+				<icon type="str">https://hydra-media.cursecdn.com/ark.gamepedia.com/thumb/4/4c/Stego_Saddle.png/50px-Stego_Saddle.png?version=2bb2bd9052952914f595e678c41d140c</icon>
+			</item>
+			<item type="dict">
+				<ep_to_unlock type="int">20</ep_to_unlock>
+				<name type="str">Doedicurus Saddle</name>
+				<icon type="str">https://hydra-media.cursecdn.com/ark.gamepedia.com/thumb/6/64/Doedicurus_Saddle.png/50px-Doedicurus_Saddle.png?version=71b9bbec85d0427972ead23199d3bcdc</icon>
+			</item>
+			<item type="dict">
+				<ep_to_unlock type="int">18</ep_to_unlock>
+				<name type="str">Paracer Saddle</name>
+				<icon type="str">https://hydra-media.cursecdn.com/ark.gamepedia.com/thumb/a/a8/Paracer_Saddle.png/50px-Paracer_Saddle.png?version=edc7f0455fdad5d3c5bd774cfe45f6f5</icon>
+			</item>
+			<item type="dict">
+				<ep_to_unlock type="int">20</ep_to_unlock>
+				<name type="str">Megaloceros Saddle</name>
+				<icon type="str">https://hydra-media.cursecdn.com/ark.gamepedia.com/thumb/8/8b/Megaloceros_Saddle.png/50px-Megaloceros_Saddle.png?version=9de81ae2ac3997b06b73d34ce1ccc1df</icon>
+			</item>
+			<item type="dict">
+				<ep_to_unlock type="int">20</ep_to_unlock>
+				<name type="str">Gallimimus Saddle</name>
+				<icon type="str">https://hydra-media.cursecdn.com/ark.gamepedia.com/thumb/5/50/Gallimimus_Saddle.png/50px-Gallimimus_Saddle.png?version=ef24d794b60c15b1cf28d94318b022de</icon>
+			</item>
+			<item type="dict">
+				<ep_to_unlock type="int">20</ep_to_unlock>
+				<name type="str">Grenade</name>
+				<icon type="str">https://hydra-media.cursecdn.com/ark.gamepedia.com/thumb/f/fb/Grenade.png/50px-Grenade.png?version=f17df0a39d43eee6fe741792d5865ed1</icon>
+			</item>
+			<item type="dict">
+				<ep_to_unlock type="int">10</ep_to_unlock>
+				<name type="str">Reinforced Trapdoor</name>
+				<icon type="str">https://hydra-media.cursecdn.com/ark.gamepedia.com/thumb/7/72/Reinforced_Trapdoor.png/50px-Reinforced_Trapdoor.png?version=1d3b53f338f7f682cea06f72dd581614</icon>
+			</item>
+			<item type="dict">
+				<ep_to_unlock type="int">10</ep_to_unlock>
+				<name type="str">Reinforced Window</name>
+				<icon type="str">https://hydra-media.cursecdn.com/ark.gamepedia.com/thumb/0/02/Reinforced_Window.png/50px-Reinforced_Window.png?version=8810bab2a306bc9d93d74dd847f7afc2</icon>
+			</item>
+			<item type="dict">
+				<ep_to_unlock type="int">6</ep_to_unlock>
+				<name type="str">Metal Wall Sign</name>
+				<icon type="str">https://hydra-media.cursecdn.com/ark.gamepedia.com/thumb/7/73/Metal_Wall_Sign.png/50px-Metal_Wall_Sign.png?version=7b7a5fc149ccbaaefc675989bf123cda</icon>
+			</item>
+			<item type="dict">
+				<ep_to_unlock type="int">24</ep_to_unlock>
+				<name type="str">Metal Foundation</name>
+				<icon type="str">https://hydra-media.cursecdn.com/ark.gamepedia.com/thumb/4/45/Metal_Foundation.png/50px-Metal_Foundation.png?version=db1420bf48f6f94ad850d4995703f84a</icon>
+			</item>
+			<item type="dict">
+				<ep_to_unlock type="int">15</ep_to_unlock>
+				<name type="str">Metal Wall</name>
+				<icon type="str">https://hydra-media.cursecdn.com/ark.gamepedia.com/thumb/a/a9/Metal_Wall.png/50px-Metal_Wall.png?version=afb569827505c2f682ca7492d6fef3cd</icon>
+			</item>
+			<item type="dict">
+				<ep_to_unlock type="int">7</ep_to_unlock>
+				<name type="str">Sloped Metal Wall Left</name>
+				<icon type="str">https://hydra-media.cursecdn.com/ark.gamepedia.com/thumb/3/37/Sloped_Metal_Wall_Left.png/50px-Sloped_Metal_Wall_Left.png?version=3e9e5afe01c050d884e70b9ba7287b74</icon>
+			</item>
+			<item type="dict">
+				<ep_to_unlock type="int">7</ep_to_unlock>
+				<name type="str">Sloped Metal Wall Right</name>
+				<icon type="str">https://hydra-media.cursecdn.com/ark.gamepedia.com/thumb/2/29/Sloped_Metal_Wall_Right.png/50px-Sloped_Metal_Wall_Right.png?version=0a1777d4b120efda059cd372a25459ad</icon>
+			</item>
+			<item type="dict">
+				<ep_to_unlock type="int">24</ep_to_unlock>
+				<name type="str">Metal Doorframe</name>
+				<icon type="str">https://hydra-media.cursecdn.com/ark.gamepedia.com/thumb/d/db/Metal_Doorframe.png/50px-Metal_Doorframe.png?version=49a8707d9ad51d5737871859f1c572a2</icon>
+			</item>
+			<item type="dict">
+				<ep_to_unlock type="int">7</ep_to_unlock>
+				<name type="str">Metal Railing</name>
+				<icon type="str">https://hydra-media.cursecdn.com/ark.gamepedia.com/thumb/8/85/Metal_Railing.png/50px-Metal_Railing.png?version=d47a0b0dd1d78b2291b0d07adea0f874</icon>
+			</item>
+			<item type="dict">
+				<ep_to_unlock type="int">11</ep_to_unlock>
+				<name type="str">Metal Sword</name>
+				<icon type="str">https://hydra-media.cursecdn.com/ark.gamepedia.com/thumb/f/f9/Metal_Sword.png/50px-Metal_Sword.png?version=10a35fdaf5740bed8b81611169d3d578</icon>
+			</item>
+			<item type="dict">
+				<ep_to_unlock type="int">9</ep_to_unlock>
+				<name type="str">Metal Shield</name>
+				<icon type="str">https://hydra-media.cursecdn.com/ark.gamepedia.com/thumb/7/7e/Metal_Shield.png/50px-Metal_Shield.png?version=13fac806bccf2b7e613e4ab5c4a78f07</icon>
+			</item>
+			<item type="dict">
+				<ep_to_unlock type="int">15</ep_to_unlock>
+				<name type="str">Stone Fireplace</name>
+				<icon type="str">https://hydra-media.cursecdn.com/ark.gamepedia.com/thumb/c/c2/Stone_Fireplace.png/50px-Stone_Fireplace.png?version=29484319a845a050c49145c3dea88284</icon>
+			</item>
+			<item type="dict">
+				<ep_to_unlock type="int">28</ep_to_unlock>
+				<name type="str">Wooden Tree Platform</name>
+				<icon type="str">https://hydra-media.cursecdn.com/ark.gamepedia.com/thumb/1/1c/Wooden_Tree_Platform.png/50px-Wooden_Tree_Platform.png?version=25996a3b053809ad6f0d979f173563fc</icon>
+			</item>
+			<item type="dict">
+				<ep_to_unlock type="int">15</ep_to_unlock>
+				<name type="str">Chitin Gauntlets</name>
+				<icon type="str">https://hydra-media.cursecdn.com/ark.gamepedia.com/thumb/b/b9/Chitin_Gauntlets.png/50px-Chitin_Gauntlets.png?version=96d63220061029bd0c7781b1af22db04</icon>
+			</item>
+			<item type="dict">
+				<ep_to_unlock type="int">15</ep_to_unlock>
+				<name type="str">Chitin Boots</name>
+				<icon type="str">https://hydra-media.cursecdn.com/ark.gamepedia.com/thumb/0/0d/Chitin_Boots.png/50px-Chitin_Boots.png?version=5acc2207aa1b5f721041a7aca6a24916</icon>
+			</item>
+			<item type="dict">
+				<ep_to_unlock type="int">18</ep_to_unlock>
+				<name type="str">Longneck Rifle</name>
+				<icon type="str">https://hydra-media.cursecdn.com/ark.gamepedia.com/thumb/a/a2/Longneck_Rifle.png/50px-Longneck_Rifle.png?version=fb0160a55d4483cdd516e9527bb14e99</icon>
+			</item>
+			<item type="dict">
+				<ep_to_unlock type="int">6</ep_to_unlock>
+				<name type="str">Simple Rifle Ammo</name>
+				<icon type="str">https://hydra-media.cursecdn.com/ark.gamepedia.com/thumb/a/a0/Simple_Rifle_Ammo.png/50px-Simple_Rifle_Ammo.png?version=30258955ab10c0fbbf5e2c79929be8a9</icon>
+			</item>
+			<item type="dict">
+				<ep_to_unlock type="int">15</ep_to_unlock>
+				<name type="str">Large Crop Plot</name>
+				<icon type="str">https://hydra-media.cursecdn.com/ark.gamepedia.com/thumb/a/ad/Large_Crop_Plot.png/50px-Large_Crop_Plot.png?version=ca9dba6987a692b713b9119795a6ce61</icon>
+			</item>
+			<item type="dict">
+				<ep_to_unlock type="int">15</ep_to_unlock>
+				<name type="str">Pteranodon Saddle</name>
+				<icon type="str">https://hydra-media.cursecdn.com/ark.gamepedia.com/thumb/9/92/Pteranodon_Saddle.png/50px-Pteranodon_Saddle.png?version=40f86734f3535c18cfe01b00d2bea1c6</icon>
+			</item>
+			<item type="dict">
+				<ep_to_unlock type="int">15</ep_to_unlock>
+				<name type="str">Sarco Saddle</name>
+				<icon type="str">https://hydra-media.cursecdn.com/ark.gamepedia.com/thumb/a/a6/Sarco_Saddle.png/50px-Sarco_Saddle.png?version=1a1c6a17000f761557fc0ba832b287f7</icon>
+			</item>
+			<item type="dict">
+				<ep_to_unlock type="int">24</ep_to_unlock>
+				<name type="str">Direbear Saddle</name>
+				<icon type="str">https://hydra-media.cursecdn.com/ark.gamepedia.com/thumb/9/9f/Direbear_Saddle.png/50px-Direbear_Saddle.png?version=5c473609f8acdad77009099ced00e8e8</icon>
+			</item>
+			<item type="dict">
+				<ep_to_unlock type="int">18</ep_to_unlock>
+				<name type="str">Shotgun</name>
+				<icon type="str">https://hydra-media.cursecdn.com/ark.gamepedia.com/thumb/6/61/Shotgun.png/50px-Shotgun.png?version=c7122a7aa46e434fd26da9efcd17e249</icon>
+			</item>
+			<item type="dict">
+				<ep_to_unlock type="int">6</ep_to_unlock>
+				<name type="str">Simple Shotgun Ammo</name>
+				<icon type="str">https://hydra-media.cursecdn.com/ark.gamepedia.com/thumb/1/18/Simple_Shotgun_Ammo.png/50px-Simple_Shotgun_Ammo.png?version=4e36240854d9e28748f78460975167f2</icon>
+			</item>
+			<item type="dict">
+				<ep_to_unlock type="int">18</ep_to_unlock>
+				<name type="str">Metal Pillar</name>
+				<icon type="str">https://hydra-media.cursecdn.com/ark.gamepedia.com/thumb/d/d8/Metal_Pillar.png/50px-Metal_Pillar.png?version=06f9fde807219f58ae8ab68d786264c2</icon>
+			</item>
+			<item type="dict">
+				<ep_to_unlock type="int">15</ep_to_unlock>
+				<name type="str">Metal Ceiling</name>
+				<icon type="str">https://hydra-media.cursecdn.com/ark.gamepedia.com/thumb/a/ac/Metal_Ceiling.png/50px-Metal_Ceiling.png?version=097d8567cebadbe71adca91ba6487485</icon>
+			</item>
+			<item type="dict">
+				<ep_to_unlock type="int">10</ep_to_unlock>
+				<name type="str">Sloped Metal Roof</name>
+				<icon type="str">https://hydra-media.cursecdn.com/ark.gamepedia.com/thumb/3/3f/Sloped_Metal_Roof.png/50px-Sloped_Metal_Roof.png?version=8636f300fe43a55c8b70493f10a92ec0</icon>
+			</item>
+			<item type="dict">
+				<ep_to_unlock type="int">12</ep_to_unlock>
+				<name type="str">Metal Door</name>
+				<icon type="str">https://hydra-media.cursecdn.com/ark.gamepedia.com/thumb/c/cd/Metal_Door.png/50px-Metal_Door.png?version=1aea424d1e670d8a54b65783ae619da0</icon>
+			</item>
+			<item type="dict">
+				<ep_to_unlock type="int">12</ep_to_unlock>
+				<name type="str">Metal Ramp</name>
+				<icon type="str">https://hydra-media.cursecdn.com/ark.gamepedia.com/thumb/e/eb/Metal_Ramp.png/50px-Metal_Ramp.png?version=581719b3059152e6500360cca9a5bd50</icon>
+			</item>
+			<item type="dict">
+				<ep_to_unlock type="int">20</ep_to_unlock>
+				<name type="str">Re-Fertilizer</name>
+				<icon type="str">https://hydra-media.cursecdn.com/ark.gamepedia.com/thumb/1/17/Re-Fertilizer.png/50px-Re-Fertilizer.png?version=54bcce63c161a1af360712be8d96a144</icon>
+			</item>
+			<item type="dict">
+				<ep_to_unlock type="int">11</ep_to_unlock>
+				<name type="str">Ghillie Chestpiece</name>
+				<icon type="str">https://hydra-media.cursecdn.com/ark.gamepedia.com/thumb/8/8b/Ghillie_Chestpiece.png/50px-Ghillie_Chestpiece.png?version=4991fc30f28aecbf57728df686fad5fd</icon>
+			</item>
+			<item type="dict">
+				<ep_to_unlock type="int">11</ep_to_unlock>
+				<name type="str">Ghillie Leggings</name>
+				<icon type="str">https://hydra-media.cursecdn.com/ark.gamepedia.com/thumb/1/1a/Ghillie_Leggings.png/50px-Ghillie_Leggings.png?version=fcbd828fc901ece74b39b0cf13ee67b2</icon>
+			</item>
+			<item type="dict">
+				<ep_to_unlock type="int">13</ep_to_unlock>
+				<name type="str">Ghillie Mask</name>
+				<icon type="str">https://hydra-media.cursecdn.com/ark.gamepedia.com/thumb/f/f2/Ghillie_Mask.png/50px-Ghillie_Mask.png?version=a3fe15778ecee86bab9583e56edeb7dc</icon>
+			</item>
+			<item type="dict">
+				<ep_to_unlock type="int">24</ep_to_unlock>
+				<name type="str">Beer Barrel</name>
+				<icon type="str">https://hydra-media.cursecdn.com/ark.gamepedia.com/thumb/b/bd/Beer_Barrel.png/50px-Beer_Barrel.png?version=2972f5eb87a84bdb095856cecf432845</icon>
+			</item>
+			<item type="dict">
+				<ep_to_unlock type="int">25</ep_to_unlock>
+				<name type="str">Primitive Cannon</name>
+				<icon type="str">https://hydra-media.cursecdn.com/ark.gamepedia.com/thumb/9/93/Primitive_Cannon.png/50px-Primitive_Cannon.png?version=78de4722c755d383168eb0a6f69ff28a</icon>
+			</item>
+			<item type="dict">
+				<ep_to_unlock type="int">5</ep_to_unlock>
+				<name type="str">Cannon Ball</name>
+				<icon type="str">https://hydra-media.cursecdn.com/ark.gamepedia.com/thumb/f/fd/Cannon_Ball.png/50px-Cannon_Ball.png?version=d50c3a1a82a9d9b1133ac6f52eecf8cb</icon>
+			</item>
+			<item type="dict">
+				<ep_to_unlock type="int">30</ep_to_unlock>
+				<name type="str">Diplodocus Saddle</name>
+				<icon type="str">https://hydra-media.cursecdn.com/ark.gamepedia.com/thumb/0/06/Diplodocus_Saddle.png/50px-Diplodocus_Saddle.png?version=a7191c707281652a7f5261f08ac29338</icon>
+			</item>
+			<item type="dict">
+				<ep_to_unlock type="int">18</ep_to_unlock>
+				<name type="str">Tree Sap Tap</name>
+				<icon type="str">https://hydra-media.cursecdn.com/ark.gamepedia.com/thumb/f/f3/Tree_Sap_Tap.png/50px-Tree_Sap_Tap.png?version=20f7c233e19d336d97a3558221215c7c</icon>
+			</item>
+			<item type="dict">
+				<ep_to_unlock type="int">20</ep_to_unlock>
+				<name type="str">Metal Staircase</name>
+				<icon type="str">https://hydra-media.cursecdn.com/ark.gamepedia.com/thumb/0/0d/Metal_Staircase.png/50px-Metal_Staircase.png?version=ab1c0f4c5cd6174e7c4f1c1c757d82e8</icon>
+			</item>
+			<item type="dict">
+				<ep_to_unlock type="int">20</ep_to_unlock>
+				<name type="str">Giant Stone Hatchframe</name>
+				<icon type="str">https://hydra-media.cursecdn.com/ark.gamepedia.com/thumb/d/d4/Giant_Stone_Hatchframe.png/50px-Giant_Stone_Hatchframe.png?version=24c72b65552b0a24e66119c1e55b6efe</icon>
+			</item>
+			<item type="dict">
+				<ep_to_unlock type="int">20</ep_to_unlock>
+				<name type="str">Giant Reinforced Trapdoor</name>
+				<icon type="str">https://hydra-media.cursecdn.com/ark.gamepedia.com/thumb/1/1f/Giant_Reinforced_Trapdoor.png/50px-Giant_Reinforced_Trapdoor.png?version=12b36d950dfc241118dbb2d35c4dfb07</icon>
+			</item>
+			<item type="dict">
+				<ep_to_unlock type="int">30</ep_to_unlock>
+				<name type="str">Lance</name>
+				<icon type="str">https://hydra-media.cursecdn.com/ark.gamepedia.com/thumb/f/f8/Lance.png/50px-Lance.png?version=dcce35fd4bfb32394e237c05331cc043</icon>
+			</item>
+			<item type="dict">
+				<ep_to_unlock type="int">18</ep_to_unlock>
+				<name type="str">Poison Grenade</name>
+				<icon type="str">https://hydra-media.cursecdn.com/ark.gamepedia.com/thumb/0/05/Poison_Grenade.png/50px-Poison_Grenade.png?version=eadfadad1e1f8c90c291c6072dfce971</icon>
+			</item>
+			<item type="dict">
+				<ep_to_unlock type="int">24</ep_to_unlock>
+				<name type="str">Fabricator</name>
+				<icon type="str">https://hydra-media.cursecdn.com/ark.gamepedia.com/thumb/6/66/Fabricator.png/50px-Fabricator.png?version=a4c428c8a00050141b5abe08f85aa47b</icon>
+			</item>
+			<item type="dict">
+				<ep_to_unlock type="int">13</ep_to_unlock>
+				<name type="str">Silencer Attachment</name>
+				<icon type="str">https://hydra-media.cursecdn.com/ark.gamepedia.com/thumb/3/39/Silencer_Attachment.png/50px-Silencer_Attachment.png?version=60b6b00172d17407450629742af84ec7</icon>
+			</item>
+			<item type="dict">
+				<ep_to_unlock type="int">18</ep_to_unlock>
+				<name type="str">Ankylo Saddle</name>
+				<icon type="str">https://hydra-media.cursecdn.com/ark.gamepedia.com/thumb/5/57/Ankylo_Saddle.png/50px-Ankylo_Saddle.png?version=d5d5fe2d27d1c67e828015e9585f0788</icon>
+			</item>
+			<item type="dict">
+				<ep_to_unlock type="int">18</ep_to_unlock>
+				<name type="str">Araneo Saddle</name>
+				<icon type="str">https://hydra-media.cursecdn.com/ark.gamepedia.com/thumb/8/8b/Araneo_Saddle.png/50px-Araneo_Saddle.png?version=80a82d070863fb8104a6401543eff621</icon>
+			</item>
+			<item type="dict">
+				<ep_to_unlock type="int">18</ep_to_unlock>
+				<name type="str">Mammoth Saddle</name>
+				<icon type="str">https://hydra-media.cursecdn.com/ark.gamepedia.com/thumb/1/19/Mammoth_Saddle.png/50px-Mammoth_Saddle.png?version=92e6e16b33536257dd38fa3931cf5243</icon>
+			</item>
+			<item type="dict">
+				<ep_to_unlock type="int">20</ep_to_unlock>
+				<name type="str">Dunkleosteus Saddle</name>
+				<icon type="str">https://hydra-media.cursecdn.com/ark.gamepedia.com/thumb/0/04/Dunkleosteus_Saddle.png/50px-Dunkleosteus_Saddle.png?version=a89cb6e4b40e649216f2e921900da9cd</icon>
+			</item>
+			<item type="dict">
+				<ep_to_unlock type="int">15</ep_to_unlock>
+				<name type="str">Metal Irrigation Pipe - Intake</name>
+				<icon type="str">https://hydra-media.cursecdn.com/ark.gamepedia.com/thumb/0/05/Metal_Irrigation_Pipe_-_Intake.png/50px-Metal_Irrigation_Pipe_-_Intake.png?version=213662e6a6ccfc02c79351a0fb789194</icon>
+			</item>
+			<item type="dict">
+				<ep_to_unlock type="int">12</ep_to_unlock>
+				<name type="str">Metal Irrigation Pipe - Straight</name>
+				<icon type="str">https://hydra-media.cursecdn.com/ark.gamepedia.com/thumb/f/f0/Metal_Irrigation_Pipe_-_Straight.png/50px-Metal_Irrigation_Pipe_-_Straight.png?version=454c878be00ac03dd4459fb8c57f78f7</icon>
+			</item>
+			<item type="dict">
+				<ep_to_unlock type="int">18</ep_to_unlock>
+				<name type="str">Metal Hatchframe</name>
+				<icon type="str">https://hydra-media.cursecdn.com/ark.gamepedia.com/thumb/e/e6/Metal_Hatchframe.png/50px-Metal_Hatchframe.png?version=bb280e14104c9750f6abd9ca337e0d49</icon>
+			</item>
+			<item type="dict">
+				<ep_to_unlock type="int">14</ep_to_unlock>
+				<name type="str">Metal Trapdoor</name>
+				<icon type="str">https://hydra-media.cursecdn.com/ark.gamepedia.com/thumb/e/e9/Metal_Trapdoor.png/50px-Metal_Trapdoor.png?version=6d88773d198770bf4759ac4b4c7fe4fa</icon>
+			</item>
+			<item type="dict">
+				<ep_to_unlock type="int">12</ep_to_unlock>
+				<name type="str">Metal Fence Foundation</name>
+				<icon type="str">https://hydra-media.cursecdn.com/ark.gamepedia.com/thumb/3/3d/Metal_Fence_Foundation.png/50px-Metal_Fence_Foundation.png?version=784dffd1750bf0c72f296199ab0e292a</icon>
+			</item>
+			<item type="dict">
+				<ep_to_unlock type="int">12</ep_to_unlock>
+				<name type="str">Metal Dinosaur Gateway</name>
+				<icon type="str">https://hydra-media.cursecdn.com/ark.gamepedia.com/thumb/4/47/Metal_Dinosaur_Gateway.png/50px-Metal_Dinosaur_Gateway.png?version=06d09460d248b2dd5fccaf4d6091380a</icon>
+			</item>
+			<item type="dict">
+				<ep_to_unlock type="int">8</ep_to_unlock>
+				<name type="str">Metal Dinosaur Gate</name>
+				<icon type="str">https://hydra-media.cursecdn.com/ark.gamepedia.com/thumb/2/26/Metal_Dinosaur_Gate.png/50px-Metal_Dinosaur_Gate.png?version=72dc5e1b5c7133ed54747c3eec176ace</icon>
+			</item>
+			<item type="dict">
+				<ep_to_unlock type="int">6</ep_to_unlock>
+				<name type="str">Polymer</name>
+				<icon type="str">https://hydra-media.cursecdn.com/ark.gamepedia.com/thumb/8/81/Polymer.png/50px-Polymer.png?version=db593eb5928259eb515ec69d633934a9</icon>
+			</item>
+			<item type="dict">
+				<ep_to_unlock type="int">6</ep_to_unlock>
+				<name type="str">Electronics</name>
+				<icon type="str">https://hydra-media.cursecdn.com/ark.gamepedia.com/thumb/d/dd/Electronics.png/50px-Electronics.png?version=a4ee7adbe186a013bb00db4d055f8b51</icon>
+			</item>
+			<item type="dict">
+				<ep_to_unlock type="int">11</ep_to_unlock>
+				<name type="str">Ghillie Boots</name>
+				<icon type="str">https://hydra-media.cursecdn.com/ark.gamepedia.com/thumb/9/9b/Ghillie_Boots.png/50px-Ghillie_Boots.png?version=e4e734d5869c0122692b56e173044549</icon>
+			</item>
+			<item type="dict">
+				<ep_to_unlock type="int">11</ep_to_unlock>
+				<name type="str">Ghillie Gauntlets</name>
+				<icon type="str">https://hydra-media.cursecdn.com/ark.gamepedia.com/thumb/b/bf/Ghillie_Gauntlets.png/50px-Ghillie_Gauntlets.png?version=11a20683713b6b68ae84c5b7dcd4b437</icon>
+			</item>
+			<item type="dict">
+				<ep_to_unlock type="int">30</ep_to_unlock>
+				<name type="str">Pelagornis Saddle</name>
+				<icon type="str">https://hydra-media.cursecdn.com/ark.gamepedia.com/thumb/2/26/Pelagornis_Saddle.png/50px-Pelagornis_Saddle.png?version=37c66b18b9ef8ed1386ac1053d5f7c5a</icon>
+			</item>
+			<item type="dict">
+				<ep_to_unlock type="int">28</ep_to_unlock>
+				<name type="str">Kaprosuchus Saddle</name>
+				<icon type="str">https://hydra-media.cursecdn.com/ark.gamepedia.com/thumb/0/0e/Kaprosuchus_Saddle.png/50px-Kaprosuchus_Saddle.png?version=ac866aea8b82b28ecc3381f659e569a3</icon>
+			</item>
+			<item type="dict">
+				<ep_to_unlock type="int">15</ep_to_unlock>
+				<name type="str">Flak Leggings</name>
+				<icon type="str">https://hydra-media.cursecdn.com/ark.gamepedia.com/thumb/0/07/Flak_Leggings.png/50px-Flak_Leggings.png?version=75a56f355c3635d2e32bb5542c96f69f</icon>
+			</item>
+			<item type="dict">
+				<ep_to_unlock type="int">18</ep_to_unlock>
+				<name type="str">Flak Chestpiece</name>
+				<icon type="str">https://hydra-media.cursecdn.com/ark.gamepedia.com/thumb/b/bf/Flak_Chestpiece.png/50px-Flak_Chestpiece.png?version=83774ad6bd6dc521c02c5be64ec5ad6e</icon>
+			</item>
+			<item type="dict">
+				<ep_to_unlock type="int">30</ep_to_unlock>
+				<name type="str">Improvised Explosive Device</name>
+				<icon type="str">https://hydra-media.cursecdn.com/ark.gamepedia.com/thumb/1/15/Improvised_Explosive_Device.png/50px-Improvised_Explosive_Device.png?version=539c17ade5a38d4d954ed32d6672c33f</icon>
+			</item>
+			<item type="dict">
+				<ep_to_unlock type="int">18</ep_to_unlock>
+				<name type="str">Metal Irrigation Pipe - Intersection</name>
+				<icon type="str">https://hydra-media.cursecdn.com/ark.gamepedia.com/thumb/7/77/Metal_Irrigation_Pipe_-_Intersection.png/50px-Metal_Irrigation_Pipe_-_Intersection.png?version=b225d79b1d02dc9fedd10f767b50f0b9</icon>
+			</item>
+			<item type="dict">
+				<ep_to_unlock type="int">12</ep_to_unlock>
+				<name type="str">Metal Irrigation Pipe - Inclined</name>
+				<icon type="str">https://hydra-media.cursecdn.com/ark.gamepedia.com/thumb/1/19/Metal_Irrigation_Pipe_-_Inclined.png/50px-Metal_Irrigation_Pipe_-_Inclined.png?version=295759b58555866dfb51794b7a0a4978</icon>
+			</item>
+			<item type="dict">
+				<ep_to_unlock type="int">12</ep_to_unlock>
+				<name type="str">Metal Irrigation Pipe - Vertical</name>
+				<icon type="str">https://hydra-media.cursecdn.com/ark.gamepedia.com/thumb/d/d9/Metal_Irrigation_Pipe_-_Vertical.png/50px-Metal_Irrigation_Pipe_-_Vertical.png?version=bb269cf96d04e32169d5ded651ec50a6</icon>
+			</item>
+			<item type="dict">
+				<ep_to_unlock type="int">18</ep_to_unlock>
+				<name type="str">Metal Irrigation Pipe - Tap</name>
+				<icon type="str">https://hydra-media.cursecdn.com/ark.gamepedia.com/thumb/e/e4/Metal_Irrigation_Pipe_-_Tap.png/50px-Metal_Irrigation_Pipe_-_Tap.png?version=ae89d10cdca9252762546a3c5772f70a</icon>
+			</item>
+			<item type="dict">
+				<ep_to_unlock type="int">20</ep_to_unlock>
+				<name type="str">Metal Water Reservoir</name>
+				<icon type="str">https://hydra-media.cursecdn.com/ark.gamepedia.com/thumb/c/cc/Metal_Water_Reservoir.png/50px-Metal_Water_Reservoir.png?version=b80b468cc5edd934a5c71fed2c3173e8</icon>
+			</item>
+			<item type="dict">
+				<ep_to_unlock type="int">18</ep_to_unlock>
+				<name type="str">Megalodon Saddle</name>
+				<icon type="str">https://hydra-media.cursecdn.com/ark.gamepedia.com/thumb/8/80/Megalodon_Saddle.png/50px-Megalodon_Saddle.png?version=e84489028cec20095222ad74fb83fa5e</icon>
+			</item>
+			<item type="dict">
+				<ep_to_unlock type="int">18</ep_to_unlock>
+				<name type="str">Sabertooth Saddle</name>
+				<icon type="str">https://hydra-media.cursecdn.com/ark.gamepedia.com/thumb/3/33/Sabertooth_Saddle.png/50px-Sabertooth_Saddle.png?version=b9917387381b87579bede70d81e362b7</icon>
+			</item>
+			<item type="dict">
+				<ep_to_unlock type="int">24</ep_to_unlock>
+				<name type="str">Woolly Rhino Saddle</name>
+				<icon type="str">https://hydra-media.cursecdn.com/ark.gamepedia.com/thumb/9/95/Woolly_Rhino_Saddle.png/50px-Woolly_Rhino_Saddle.png?version=5a507220e160e0074f2329329bb6d032</icon>
+			</item>
+			<item type="dict">
+				<ep_to_unlock type="int">24</ep_to_unlock>
+				<name type="str">Paracer Platform Saddle</name>
+				<icon type="str">https://hydra-media.cursecdn.com/ark.gamepedia.com/thumb/0/0f/Paracer_Platform_Saddle.png/50px-Paracer_Platform_Saddle.png?version=109e591aa972ef5419d43b40b7af1456</icon>
+			</item>
+			<item type="dict">
+				<ep_to_unlock type="int">40</ep_to_unlock>
+				<name type="str">Industrial Grill</name>
+				<icon type="str">https://hydra-media.cursecdn.com/ark.gamepedia.com/thumb/9/90/Industrial_Grill.png/50px-Industrial_Grill.png?version=e831e002282f8b68742a5d1c19ba8bc1</icon>
+			</item>
+			<item type="dict">
+				<ep_to_unlock type="int">18</ep_to_unlock>
+				<name type="str">Metal Windowframe</name>
+				<icon type="str">https://hydra-media.cursecdn.com/ark.gamepedia.com/thumb/6/68/Metal_Windowframe.png/50px-Metal_Windowframe.png?version=ee1aceabf4303c5e93caee58f3f4dd78</icon>
+			</item>
+			<item type="dict">
+				<ep_to_unlock type="int">21</ep_to_unlock>
+				<name type="str">Metal Ladder</name>
+				<icon type="str">https://hydra-media.cursecdn.com/ark.gamepedia.com/thumb/5/5e/Metal_Ladder.png/50px-Metal_Ladder.png?version=7a6174009f6d72fd184c599ebe74fad7</icon>
+			</item>
+			<item type="dict">
+				<ep_to_unlock type="int">18</ep_to_unlock>
+				<name type="str">Flashlight Attachment</name>
+				<icon type="str">https://hydra-media.cursecdn.com/ark.gamepedia.com/thumb/a/a3/Flashlight_Attachment.png/50px-Flashlight_Attachment.png?version=b0857842995efed5a007870169daa98a</icon>
+			</item>
+			<item type="dict">
+				<ep_to_unlock type="int">21</ep_to_unlock>
+				<name type="str">GPS</name>
+				<icon type="str">https://hydra-media.cursecdn.com/ark.gamepedia.com/thumb/7/72/GPS.png/50px-GPS.png?version=e9b3de92e79503d0aeafeba11fd4cc8e</icon>
+			</item>
+			<item type="dict">
+				<ep_to_unlock type="int">30</ep_to_unlock>
+				<name type="str">Greenhouse Wall</name>
+				<icon type="str">https://hydra-media.cursecdn.com/ark.gamepedia.com/thumb/3/3c/Greenhouse_Wall.png/50px-Greenhouse_Wall.png?version=90863462c1bcd78416cd7c5dbda1fc93</icon>
+			</item>
+			<item type="dict">
+				<ep_to_unlock type="int">30</ep_to_unlock>
+				<name type="str">Greenhouse Ceiling</name>
+				<icon type="str">https://hydra-media.cursecdn.com/ark.gamepedia.com/thumb/b/bf/Greenhouse_Ceiling.png/50px-Greenhouse_Ceiling.png?version=39bbfc9a877c84ddf3e7c6b458ed26c9</icon>
+			</item>
+			<item type="dict">
+				<ep_to_unlock type="int">15</ep_to_unlock>
+				<name type="str">Greenhouse Doorframe</name>
+				<icon type="str">https://hydra-media.cursecdn.com/ark.gamepedia.com/thumb/b/b0/Greenhouse_Doorframe.png/50px-Greenhouse_Doorframe.png?version=39088892e7ac8d32dc8cbaf8c0f2085c</icon>
+			</item>
+			<item type="dict">
+				<ep_to_unlock type="int">15</ep_to_unlock>
+				<name type="str">Greenhouse Door</name>
+				<icon type="str">https://hydra-media.cursecdn.com/ark.gamepedia.com/thumb/0/03/Greenhouse_Door.png/50px-Greenhouse_Door.png?version=f6180b497cc63d0ab621503af37395b6</icon>
+			</item>
+			<item type="dict">
+				<ep_to_unlock type="int">30</ep_to_unlock>
+				<name type="str">Chain Bola</name>
+				<icon type="str">https://hydra-media.cursecdn.com/ark.gamepedia.com/thumb/2/25/Chain_Bola.png/50px-Chain_Bola.png?version=b8266fd5e9a3a5a7776f382803755b99</icon>
+			</item>
+			<item type="dict">
+				<ep_to_unlock type="int">24</ep_to_unlock>
+				<name type="str">Baryonyx Saddle</name>
+				<icon type="str">https://hydra-media.cursecdn.com/ark.gamepedia.com/thumb/0/03/Baryonyx_Saddle.png/50px-Baryonyx_Saddle.png?version=884dd0495bf18846849f1753e781b75d</icon>
+			</item>
+			<item type="dict">
+				<ep_to_unlock type="int">16</ep_to_unlock>
+				<name type="str">Flak Boots</name>
+				<icon type="str">https://hydra-media.cursecdn.com/ark.gamepedia.com/thumb/7/77/Flak_Boots.png/50px-Flak_Boots.png?version=467f78003b281725f40a489f024bada7</icon>
+			</item>
+			<item type="dict">
+				<ep_to_unlock type="int">16</ep_to_unlock>
+				<name type="str">Flak Gauntlets</name>
+				<icon type="str">https://hydra-media.cursecdn.com/ark.gamepedia.com/thumb/f/f2/Flak_Gauntlets.png/50px-Flak_Gauntlets.png?version=b1041acd806db37c1dccadf5b6c64460</icon>
+			</item>
+			<item type="dict">
+				<ep_to_unlock type="int">20</ep_to_unlock>
+				<name type="str">Flak Helmet</name>
+				<icon type="str">https://hydra-media.cursecdn.com/ark.gamepedia.com/thumb/e/ec/Flak_Helmet.png/50px-Flak_Helmet.png?version=e5ce2611e44c1f419a4c89a85bdc00b0</icon>
+			</item>
+			<item type="dict">
+				<ep_to_unlock type="int">15</ep_to_unlock>
+				<name type="str">Metal Billboard</name>
+				<icon type="str">https://hydra-media.cursecdn.com/ark.gamepedia.com/thumb/2/25/Metal_Billboard.png/50px-Metal_Billboard.png?version=c77e1bc89c5c1fa390e1d3bd595b0a4e</icon>
+			</item>
+			<item type="dict">
+				<ep_to_unlock type="int">18</ep_to_unlock>
+				<name type="str">Metal Window</name>
+				<icon type="str">https://hydra-media.cursecdn.com/ark.gamepedia.com/thumb/1/11/Metal_Window.png/50px-Metal_Window.png?version=4f266b845d497841a3586d4e6019f8af</icon>
+			</item>
+			<item type="dict">
+				<ep_to_unlock type="int">18</ep_to_unlock>
+				<name type="str">Metal Catwalk</name>
+				<icon type="str">https://hydra-media.cursecdn.com/ark.gamepedia.com/thumb/0/08/Metal_Catwalk.png/50px-Metal_Catwalk.png?version=fd0fbc05a8981ca114270824a5f1aa85</icon>
+			</item>
+			<item type="dict">
+				<ep_to_unlock type="int">21</ep_to_unlock>
+				<name type="str">Carno Saddle</name>
+				<icon type="str">https://hydra-media.cursecdn.com/ark.gamepedia.com/thumb/a/a9/Carno_Saddle.png/50px-Carno_Saddle.png?version=9c76983f4a627d544bfe67d37b8f0c11</icon>
+			</item>
+			<item type="dict">
+				<ep_to_unlock type="int">35</ep_to_unlock>
+				<name type="str">Procoptodon Saddle</name>
+				<icon type="str">https://hydra-media.cursecdn.com/ark.gamepedia.com/thumb/a/ae/Procoptodon_Saddle.png/50px-Procoptodon_Saddle.png?version=d179b7092d6c0e65ece122c62a4820b7</icon>
+			</item>
+			<item type="dict">
+				<ep_to_unlock type="int">24</ep_to_unlock>
+				<name type="str">Canteen</name>
+				<icon type="str">https://hydra-media.cursecdn.com/ark.gamepedia.com/thumb/5/5e/Canteen.png/50px-Canteen.png?version=5404fe37700ade3140bb519ebe2955c9</icon>
+			</item>
+			<item type="dict">
+				<ep_to_unlock type="int">24</ep_to_unlock>
+				<name type="str">Electrical Generator</name>
+				<icon type="str">https://hydra-media.cursecdn.com/ark.gamepedia.com/thumb/9/92/Electrical_Generator.png/50px-Electrical_Generator.png?version=5d4b05e02bef1d389972a69cbb12eea4</icon>
+			</item>
+			<item type="dict">
+				<ep_to_unlock type="int">16</ep_to_unlock>
+				<name type="str">Straight Electrical Cable</name>
+				<icon type="str">https://hydra-media.cursecdn.com/ark.gamepedia.com/thumb/1/1d/Straight_Electrical_Cable.png/50px-Straight_Electrical_Cable.png?version=9c2191bf401b42721697878be5db7ba8</icon>
+			</item>
+			<item type="dict">
+				<ep_to_unlock type="int">16</ep_to_unlock>
+				<name type="str">Electrical Outlet</name>
+				<icon type="str">https://hydra-media.cursecdn.com/ark.gamepedia.com/thumb/f/f3/Electrical_Outlet.png/50px-Electrical_Outlet.png?version=eb3eff9e75332d2dd67db90840217399</icon>
+			</item>
+			<item type="dict">
+				<ep_to_unlock type="int">18</ep_to_unlock>
+				<name type="str">Fabricated Pistol</name>
+				<icon type="str">https://hydra-media.cursecdn.com/ark.gamepedia.com/thumb/2/2e/Fabricated_Pistol.png/50px-Fabricated_Pistol.png?version=8994ea051c3986d38976f80b7a40aed5</icon>
+			</item>
+			<item type="dict">
+				<ep_to_unlock type="int">8</ep_to_unlock>
+				<name type="str">Advanced Bullet</name>
+				<icon type="str">https://hydra-media.cursecdn.com/ark.gamepedia.com/thumb/3/3e/Advanced_Bullet.png/50px-Advanced_Bullet.png?version=549d49ceea2a2eb1b2c32860656cf0cc</icon>
+			</item>
+			<item type="dict">
+				<ep_to_unlock type="int">18</ep_to_unlock>
+				<name type="str">Pump-Action Shotgun</name>
+				<icon type="str">https://hydra-media.cursecdn.com/ark.gamepedia.com/thumb/a/a9/Pump-Action_Shotgun.png/50px-Pump-Action_Shotgun.png?version=d122fafe204aa7d9b1edad50f54165d9</icon>
+			</item>
+			<item type="dict">
+				<ep_to_unlock type="int">40</ep_to_unlock>
+				<name type="str">Grappling Hook</name>
+				<icon type="str">https://hydra-media.cursecdn.com/ark.gamepedia.com/thumb/3/3d/Grappling_Hook.png/50px-Grappling_Hook.png?version=6c7f5864ef44aa7722819a2dd7546691</icon>
+			</item>
+			<item type="dict">
+				<ep_to_unlock type="int">18</ep_to_unlock>
+				<name type="str">Remote Keypad</name>
+				<icon type="str">https://hydra-media.cursecdn.com/ark.gamepedia.com/thumb/9/9b/Remote_Keypad.png/50px-Remote_Keypad.png?version=0d4758042e1f0684f59713d744025216</icon>
+			</item>
+			<item type="dict">
+				<ep_to_unlock type="int">20</ep_to_unlock>
+				<name type="str">Omnidirectional Lamppost</name>
+				<icon type="str">https://hydra-media.cursecdn.com/ark.gamepedia.com/thumb/3/31/Omnidirectional_Lamppost.png/50px-Omnidirectional_Lamppost.png?version=f9984233b8b7170945f5f3ff993b63b0</icon>
+			</item>
+			<item type="dict">
+				<ep_to_unlock type="int">20</ep_to_unlock>
+				<name type="str">Lamppost</name>
+				<icon type="str">https://hydra-media.cursecdn.com/ark.gamepedia.com/thumb/b/b1/Lamppost.png/50px-Lamppost.png?version=1c1533aecd414b49256b518b57579780</icon>
+			</item>
+			<item type="dict">
+				<ep_to_unlock type="int">15</ep_to_unlock>
+				<name type="str">War Map</name>
+				<icon type="str">https://hydra-media.cursecdn.com/ark.gamepedia.com/thumb/7/7a/War_Map.png/50px-War_Map.png?version=f475cd03f4aa281c716eece0f961c0ab</icon>
+			</item>
+			<item type="dict">
+				<ep_to_unlock type="int">30</ep_to_unlock>
+				<name type="str">Sloped Greenhouse Roof</name>
+				<icon type="str">https://hydra-media.cursecdn.com/ark.gamepedia.com/thumb/2/22/Greenhouse_Roof.png/50px-Greenhouse_Roof.png?version=7f8825e80f211640ab65ea16d2e55ffc</icon>
+			</item>
+			<item type="dict">
+				<ep_to_unlock type="int">15</ep_to_unlock>
+				<name type="str">Sloped Greenhouse Wall Left</name>
+				<icon type="str">https://hydra-media.cursecdn.com/ark.gamepedia.com/thumb/9/95/Sloped_Greenhouse_Wall_Left.png/50px-Sloped_Greenhouse_Wall_Left.png?version=7ae10a955833fabbdb7e7fe477eff73a</icon>
+			</item>
+			<item type="dict">
+				<ep_to_unlock type="int">15</ep_to_unlock>
+				<name type="str">Sloped Greenhouse Wall Right</name>
+				<icon type="str">https://hydra-media.cursecdn.com/ark.gamepedia.com/thumb/1/12/Sloped_Greenhouse_Wall_Right.png/50px-Sloped_Greenhouse_Wall_Right.png?version=3788c88ff4b26eceaf36643c4b0f69bf</icon>
+			</item>
+			<item type="dict">
+				<ep_to_unlock type="int">15</ep_to_unlock>
+				<name type="str">Greenhouse Window</name>
+				<icon type="str">https://hydra-media.cursecdn.com/ark.gamepedia.com/thumb/3/35/Greenhouse_Window.png/50px-Greenhouse_Window.png?version=02291fcb0a7b7d38a8dd879897e80124</icon>
+			</item>
+			<item type="dict">
+				<ep_to_unlock type="int">30</ep_to_unlock>
+				<name type="str">Arthropluera Saddle</name>
+				<icon type="str">https://hydra-media.cursecdn.com/ark.gamepedia.com/thumb/5/5b/Arthropluera_Saddle.png/50px-Arthropluera_Saddle.png?version=2232d43b81c2d2852df15569d77e17e6</icon>
+			</item>
+			<item type="dict">
+				<ep_to_unlock type="int">35</ep_to_unlock>
+				<name type="str">Allosaurus Saddle</name>
+				<icon type="str">https://hydra-media.cursecdn.com/ark.gamepedia.com/thumb/4/47/Allosaurus_Saddle.png/50px-Allosaurus_Saddle.png?version=2a04d6f72fe767403914cfdacb91cd4f</icon>
+			</item>
+			<item type="dict">
+				<ep_to_unlock type="int">30</ep_to_unlock>
+				<name type="str">Giant Metal Hatchframe</name>
+				<icon type="str">https://hydra-media.cursecdn.com/ark.gamepedia.com/thumb/0/00/Giant_Metal_Hatchframe.png/50px-Giant_Metal_Hatchframe.png?version=1921ccecc468332743978b8b902629fe</icon>
+			</item>
+			<item type="dict">
+				<ep_to_unlock type="int">30</ep_to_unlock>
+				<name type="str">Giant Metal Trapdoor</name>
+				<icon type="str">https://hydra-media.cursecdn.com/ark.gamepedia.com/thumb/e/e1/Giant_Metal_Trapdoor.png/50px-Giant_Metal_Trapdoor.png?version=5ed0da323b94e53601a67a65d66da735</icon>
+			</item>
+			<item type="dict">
+				<ep_to_unlock type="int">30</ep_to_unlock>
+				<name type="str">Chalicotherium Saddle</name>
+				<icon type="str">https://hydra-media.cursecdn.com/ark.gamepedia.com/thumb/e/e7/Chalicotherium_Saddle.png/50px-Chalicotherium_Saddle.png?version=0c6b37b8f3edf15c3727d66bd34ff3e0</icon>
+			</item>
+			<item type="dict">
+				<ep_to_unlock type="int">21</ep_to_unlock>
+				<name type="str">Tapejara Saddle</name>
+				<icon type="str">https://hydra-media.cursecdn.com/ark.gamepedia.com/thumb/c/cc/Tapejara_Saddle.png/50px-Tapejara_Saddle.png?version=3f93df10834c1623784fc4fb4070aac2</icon>
+			</item>
+			<item type="dict">
+				<ep_to_unlock type="int">30</ep_to_unlock>
+				<name type="str">Camera</name>
+				<icon type="str">https://hydra-media.cursecdn.com/ark.gamepedia.com/thumb/8/80/Camera.png/50px-Camera.png?version=47c442318b41b0f2136d727f867fc595</icon>
+			</item>
+			<item type="dict">
+				<ep_to_unlock type="int">16</ep_to_unlock>
+				<name type="str">Inclined Electrical Cable</name>
+				<icon type="str">https://hydra-media.cursecdn.com/ark.gamepedia.com/thumb/c/c3/Inclined_Electrical_Cable.png/50px-Inclined_Electrical_Cable.png?version=5c42537ae27ddff95c3035eb01022eed</icon>
+			</item>
+			<item type="dict">
+				<ep_to_unlock type="int">16</ep_to_unlock>
+				<name type="str">Vertical Electrical Cable</name>
+				<icon type="str">https://hydra-media.cursecdn.com/ark.gamepedia.com/thumb/d/d5/Vertical_Electrical_Cable.png/50px-Vertical_Electrical_Cable.png?version=bacdaff89c65e41e2232a9c902b6dbae</icon>
+			</item>
+			<item type="dict">
+				<ep_to_unlock type="int">24</ep_to_unlock>
+				<name type="str">Electrical Cable Intersection</name>
+				<icon type="str">https://hydra-media.cursecdn.com/ark.gamepedia.com/thumb/d/d0/Electrical_Cable_Intersection.png/50px-Electrical_Cable_Intersection.png?version=cdc6b721aacd8924939a843235833879</icon>
+			</item>
+			<item type="dict">
+				<ep_to_unlock type="int">21</ep_to_unlock>
+				<name type="str">Argentavis Saddle</name>
+				<icon type="str">https://hydra-media.cursecdn.com/ark.gamepedia.com/thumb/0/04/Argentavis_Saddle.png/50px-Argentavis_Saddle.png?version=0cb85ebc03fad95db6e2dcefcb04ec33</icon>
+			</item>
+			<item type="dict">
+				<ep_to_unlock type="int">21</ep_to_unlock>
+				<name type="str">Bronto Saddle</name>
+				<icon type="str">https://hydra-media.cursecdn.com/ark.gamepedia.com/thumb/a/a2/Bronto_Saddle.png/50px-Bronto_Saddle.png?version=37d0bc5e5ed157517426b612454e9cb0</icon>
+			</item>
+			<item type="dict">
+				<ep_to_unlock type="int">50</ep_to_unlock>
+				<name type="str">Castoroides Saddle</name>
+				<icon type="str">https://hydra-media.cursecdn.com/ark.gamepedia.com/thumb/1/14/Castoroides_Saddle.png/50px-Castoroides_Saddle.png?version=820f036caf32f3dadbac7614a4a113b3</icon>
+			</item>
+			<item type="dict">
+				<ep_to_unlock type="int">20</ep_to_unlock>
+				<name type="str">Refrigerator</name>
+				<icon type="str">https://hydra-media.cursecdn.com/ark.gamepedia.com/thumb/d/d8/Refrigerator.png/50px-Refrigerator.png?version=fac68c9eaf1c82e736fd72faa6402077</icon>
+			</item>
+			<item type="dict">
+				<ep_to_unlock type="int">21</ep_to_unlock>
+				<name type="str">Air Conditioner</name>
+				<icon type="str">https://hydra-media.cursecdn.com/ark.gamepedia.com/thumb/2/25/Air_Conditioner.png/50px-Air_Conditioner.png?version=add69eec801c3a59ebb3e655ea403a02</icon>
+			</item>
+			<item type="dict">
+				<ep_to_unlock type="int">24</ep_to_unlock>
+				<name type="str">C4 Remote Detonator</name>
+				<icon type="str">https://hydra-media.cursecdn.com/ark.gamepedia.com/thumb/8/85/C4_Remote_Detonator.png/50px-C4_Remote_Detonator.png?version=8ff874dcae9fc7f8072afa100215713a</icon>
+			</item>
+			<item type="dict">
+				<ep_to_unlock type="int">12</ep_to_unlock>
+				<name type="str">C4 Charge</name>
+				<icon type="str">https://hydra-media.cursecdn.com/ark.gamepedia.com/thumb/4/46/C4_Charge.png/50px-C4_Charge.png?version=bad408973e85349469f00504bfc3d102</icon>
+			</item>
+			<item type="dict">
+				<ep_to_unlock type="int">24</ep_to_unlock>
+				<name type="str">Assault Rifle</name>
+				<icon type="str">https://hydra-media.cursecdn.com/ark.gamepedia.com/thumb/e/e0/Assault_Rifle.png/50px-Assault_Rifle.png?version=dcd4b379e586fa4fd3654bd1f7b67827</icon>
+			</item>
+			<item type="dict">
+				<ep_to_unlock type="int">8</ep_to_unlock>
+				<name type="str">Advanced Rifle Bullet</name>
+				<icon type="str">https://hydra-media.cursecdn.com/ark.gamepedia.com/thumb/6/64/Advanced_Rifle_Bullet.png/50px-Advanced_Rifle_Bullet.png?version=9649a64c988f990efadf67a73a506407</icon>
+			</item>
+			<item type="dict">
+				<ep_to_unlock type="int">24</ep_to_unlock>
+				<name type="str">Laser Attachment</name>
+				<icon type="str">https://hydra-media.cursecdn.com/ark.gamepedia.com/thumb/b/b3/Laser_Attachment.png/50px-Laser_Attachment.png?version=725a25e81c358c3bb0966df916a4372b</icon>
+			</item>
+			<item type="dict">
+				<ep_to_unlock type="int">24</ep_to_unlock>
+				<name type="str">Holo-Scope Attachment</name>
+				<icon type="str">https://hydra-media.cursecdn.com/ark.gamepedia.com/thumb/9/91/Holo-Scope_Attachment.png/50px-Holo-Scope_Attachment.png?version=5ed3c256795b9daf6893c8f0d5fada76</icon>
+			</item>
+			<item type="dict">
+				<ep_to_unlock type="int">28</ep_to_unlock>
+				<name type="str">Behemoth Gateway</name>
+				<icon type="str">https://hydra-media.cursecdn.com/ark.gamepedia.com/thumb/4/49/Behemoth_Gateway.png/50px-Behemoth_Gateway.png?version=1ddba72c63632ff0b26727c1897fa14b</icon>
+			</item>
+			<item type="dict">
+				<ep_to_unlock type="int">15</ep_to_unlock>
+				<name type="str">Behemoth Gate</name>
+				<icon type="str">https://hydra-media.cursecdn.com/ark.gamepedia.com/thumb/6/62/Behemoth_Gate.png/50px-Behemoth_Gate.png?version=b78a9caf1517d1ae76b27cc46c33bce9</icon>
+			</item>
+			<item type="dict">
+				<ep_to_unlock type="int">30</ep_to_unlock>
+				<name type="str">Basilosaurus Saddle</name>
+				<icon type="str">https://hydra-media.cursecdn.com/ark.gamepedia.com/thumb/8/8e/Basilosaurus_Saddle.png/50px-Basilosaurus_Saddle.png?version=18b97f0c01b25b9f68b9a9317a24485a</icon>
+			</item>
+			<item type="dict">
+				<ep_to_unlock type="int">40</ep_to_unlock>
+				<name type="str">Rex Saddle</name>
+				<icon type="str">https://hydra-media.cursecdn.com/ark.gamepedia.com/thumb/8/89/Rex_Saddle.png/50px-Rex_Saddle.png?version=de0d143c53366734731006e8e9efc64e</icon>
+			</item>
+			<item type="dict">
+				<ep_to_unlock type="int">40</ep_to_unlock>
+				<name type="str">Spino Saddle</name>
+				<icon type="str">https://hydra-media.cursecdn.com/ark.gamepedia.com/thumb/9/97/Spino_Saddle.png/50px-Spino_Saddle.png?version=74ca4b245ef7594579016f7a3dcae801</icon>
+			</item>
+			<item type="dict">
+				<ep_to_unlock type="int">32</ep_to_unlock>
+				<name type="str">Rocket Launcher</name>
+				<icon type="str">https://hydra-media.cursecdn.com/ark.gamepedia.com/thumb/0/05/Rocket_Launcher.png/50px-Rocket_Launcher.png?version=52d3ceeace91f109aef93799ff26110a</icon>
+			</item>
+			<item type="dict">
+				<ep_to_unlock type="int">8</ep_to_unlock>
+				<name type="str">Rocket Propelled Grenade</name>
+				<icon type="str">https://hydra-media.cursecdn.com/ark.gamepedia.com/thumb/9/9e/Rocket_Propelled_Grenade.png/50px-Rocket_Propelled_Grenade.png?version=477e7e22a7b9f63517269862d85cdcc1</icon>
+			</item>
+			<item type="dict">
+				<ep_to_unlock type="int">40</ep_to_unlock>
+				<name type="str">Auto Turret</name>
+				<icon type="str">https://hydra-media.cursecdn.com/ark.gamepedia.com/thumb/f/f9/Auto_Turret.png/50px-Auto_Turret.png?version=298ee1d84ac8ed33df22aec02b754c3f</icon>
+			</item>
+			<item type="dict">
+				<ep_to_unlock type="int">30</ep_to_unlock>
+				<name type="str">Spray Painter</name>
+				<icon type="str">https://hydra-media.cursecdn.com/ark.gamepedia.com/thumb/3/38/Spray_Painter.png/50px-Spray_Painter.png?version=b83928f04e1b9866c978f061ccb3bd53</icon>
+			</item>
+			<item type="dict">
+				<ep_to_unlock type="int">44</ep_to_unlock>
+				<name type="str">Quetz Saddle</name>
+				<icon type="str">https://hydra-media.cursecdn.com/ark.gamepedia.com/thumb/e/e8/Quetz_Saddle.png/50px-Quetz_Saddle.png?version=2656de21cde1959bbbe1c64ca8dec236</icon>
+			</item>
+			<item type="dict">
+				<ep_to_unlock type="int">40</ep_to_unlock>
+				<name type="str">Plesiosaur Saddle</name>
+				<icon type="str">https://hydra-media.cursecdn.com/ark.gamepedia.com/thumb/8/8e/Plesiosaur_Saddle.png/50px-Plesiosaur_Saddle.png?version=c244b4a207831f2a947f6ee0974463e6</icon>
+			</item>
+			<item type="dict">
+				<ep_to_unlock type="int">28</ep_to_unlock>
+				<name type="str">Bunk Bed</name>
+				<icon type="str">https://hydra-media.cursecdn.com/ark.gamepedia.com/thumb/3/34/Bunk_Bed.png/50px-Bunk_Bed.png?version=1f89776b5f7a03a5a3753d82ffbafd50</icon>
+			</item>
+			<item type="dict">
+				<ep_to_unlock type="int">55</ep_to_unlock>
+				<name type="str">Metal Tree Platform</name>
+				<icon type="str">https://hydra-media.cursecdn.com/ark.gamepedia.com/thumb/c/cc/Metal_Tree_Platform.png/50px-Metal_Tree_Platform.png?version=8725ec8f326cce20ff66f7840852c63e</icon>
+			</item>
+			<item type="dict">
+				<ep_to_unlock type="int">45</ep_to_unlock>
+				<name type="str">Industrial Grinder</name>
+				<icon type="str">https://hydra-media.cursecdn.com/ark.gamepedia.com/thumb/f/fe/Industrial_Grinder.png/50px-Industrial_Grinder.png?version=eaa2a6f465609f48ce4a8ff309776f8b</icon>
+			</item>
+			<item type="dict">
+				<ep_to_unlock type="int">40</ep_to_unlock>
+				<name type="str">Therizinosaurus Saddle</name>
+				<icon type="str">https://hydra-media.cursecdn.com/ark.gamepedia.com/thumb/e/ee/Therizinosaurus_Saddle.png/50px-Therizinosaurus_Saddle.png?version=acf773740c32fd77292372a102e5b7e2</icon>
+			</item>
+			<item type="dict">
+				<ep_to_unlock type="int">35</ep_to_unlock>
+				<name type="str">Heavy Miner's Helmet</name>
+				<icon type="str">https://hydra-media.cursecdn.com/ark.gamepedia.com/thumb/9/9a/Heavy_Miner%27s_Helmet.png/50px-Heavy_Miner%27s_Helmet.png?version=41e794d947a43e8f78e3de678d677ca1</icon>
+			</item>
+			<item type="dict">
+				<ep_to_unlock type="int">30</ep_to_unlock>
+				<name type="str">Transponder Tracker</name>
+				<icon type="str">https://hydra-media.cursecdn.com/ark.gamepedia.com/thumb/6/66/Transponder_Tracker.png/50px-Transponder_Tracker.png?version=a8eb0464a1a7e54d7f6de1e8b020c66a</icon>
+			</item>
+			<item type="dict">
+				<ep_to_unlock type="int">20</ep_to_unlock>
+				<name type="str">Transponder Node</name>
+				<icon type="str">https://hydra-media.cursecdn.com/ark.gamepedia.com/thumb/5/59/Transponder_Node.png/50px-Transponder_Node.png?version=912b0a21dee38911040effc32f7e2eb5</icon>
+			</item>
+			<item type="dict">
+				<ep_to_unlock type="int">30</ep_to_unlock>
+				<name type="str">Vault</name>
+				<icon type="str">https://hydra-media.cursecdn.com/ark.gamepedia.com/thumb/c/c9/Vault.png/50px-Vault.png?version=202f8ed4da7d0e5ac1244d50819ec5a1</icon>
+			</item>
+			<item type="dict">
+				<ep_to_unlock type="int">40</ep_to_unlock>
+				<name type="str">Elevator Track</name>
+				<icon type="str">https://hydra-media.cursecdn.com/ark.gamepedia.com/thumb/6/61/Elevator_Track.png/50px-Elevator_Track.png?version=f4967d0eb58c9dd2edbe1b71f4ab0e3a</icon>
+			</item>
+			<item type="dict">
+				<ep_to_unlock type="int">40</ep_to_unlock>
+				<name type="str">Small Elevator Platform</name>
+				<icon type="str">https://hydra-media.cursecdn.com/ark.gamepedia.com/thumb/f/f3/Small_Elevator_Platform.png/50px-Small_Elevator_Platform.png?version=230bb7c4956d781a7296ed1d74356850</icon>
+			</item>
+			<item type="dict">
+				<ep_to_unlock type="int">40</ep_to_unlock>
+				<name type="str">Medium Elevator Platform</name>
+				<icon type="str">https://hydra-media.cursecdn.com/ark.gamepedia.com/thumb/8/80/Medium_Elevator_Platform.png/50px-Medium_Elevator_Platform.png?version=2efc6e574f63464d19197e2d2968411f</icon>
+			</item>
+			<item type="dict">
+				<ep_to_unlock type="int">40</ep_to_unlock>
+				<name type="str">Large Elevator Platform</name>
+				<icon type="str">https://hydra-media.cursecdn.com/ark.gamepedia.com/thumb/1/18/Large_Elevator_Platform.png/50px-Large_Elevator_Platform.png?version=899c47133639193209b67e76b95f4cbc</icon>
+			</item>
+			<item type="dict">
+				<ep_to_unlock type="int">30</ep_to_unlock>
+				<name type="str">Tranquilizer Dart</name>
+				<icon type="str">https://hydra-media.cursecdn.com/ark.gamepedia.com/thumb/5/56/Tranquilizer_Dart.png/50px-Tranquilizer_Dart.png?version=afc00ad82455c4aaba3d6581e1f207c5</icon>
+			</item>
+			<item type="dict">
+				<ep_to_unlock type="int">40</ep_to_unlock>
+				<name type="str">Tusoteuthis Saddle</name>
+				<icon type="str">https://hydra-media.cursecdn.com/ark.gamepedia.com/thumb/2/2c/Tusoteuthis_Saddle.png/50px-Tusoteuthis_Saddle.png?version=bcb459df8f113fd3d347c187f84ba618</icon>
+			</item>
+			<item type="dict">
+				<ep_to_unlock type="int">40</ep_to_unlock>
+				<name type="str">Compound Bow</name>
+				<icon type="str">https://hydra-media.cursecdn.com/ark.gamepedia.com/thumb/9/9e/Compound_Bow.png/50px-Compound_Bow.png?version=7751b78b1993effd8c15a97046f49163</icon>
+			</item>
+			<item type="dict">
+				<ep_to_unlock type="int">35</ep_to_unlock>
+				<name type="str">Metal Arrow</name>
+				<icon type="str">https://hydra-media.cursecdn.com/ark.gamepedia.com/thumb/1/12/Metal_Arrow.png/50px-Metal_Arrow.png?version=a995caa599f0d7585a0e4d2ef6459f27</icon>
+			</item>
+			<item type="dict">
+				<ep_to_unlock type="int">35</ep_to_unlock>
+				<name type="str">Bronto Platform Saddle</name>
+				<icon type="str">https://hydra-media.cursecdn.com/ark.gamepedia.com/thumb/9/94/Bronto_Platform_Saddle.png/50px-Bronto_Platform_Saddle.png?version=a47919ba6de1188403943147af7e4fa5</icon>
+			</item>
+			<item type="dict">
+				<ep_to_unlock type="int">36</ep_to_unlock>
+				<name type="str">Fabricated Sniper Rifle</name>
+				<icon type="str">https://hydra-media.cursecdn.com/ark.gamepedia.com/thumb/9/9e/Fabricated_Sniper_Rifle.png/50px-Fabricated_Sniper_Rifle.png?version=1e505301a349c9077afa1e285a5531ce</icon>
+			</item>
+			<item type="dict">
+				<ep_to_unlock type="int">16</ep_to_unlock>
+				<name type="str">Advanced Sniper Bullet</name>
+				<icon type="str">https://hydra-media.cursecdn.com/ark.gamepedia.com/thumb/6/6c/Advanced_Sniper_Bullet.png/50px-Advanced_Sniper_Bullet.png?version=3f01a4645ccb4dcbe256e9b7ce7e1613</icon>
+			</item>
+			<item type="dict">
+				<ep_to_unlock type="int">50</ep_to_unlock>
+				<name type="str">Megalosaurus Saddle</name>
+				<icon type="str">https://hydra-media.cursecdn.com/ark.gamepedia.com/thumb/b/bc/Megalosaurus_Saddle.png/50px-Megalosaurus_Saddle.png?version=20e1d9e2f45211cc940faf0146d5dd18</icon>
+			</item>
+			<item type="dict">
+				<ep_to_unlock type="int">25</ep_to_unlock>
+				<name type="str">SCUBA Mask</name>
+				<icon type="str">https://hydra-media.cursecdn.com/ark.gamepedia.com/thumb/5/51/SCUBA_Mask.png/50px-SCUBA_Mask.png?version=bfe13c030ee70f974a0f8cf91b626348</icon>
+			</item>
+			<item type="dict">
+				<ep_to_unlock type="int">35</ep_to_unlock>
+				<name type="str">SCUBA Tank</name>
+				<icon type="str">https://hydra-media.cursecdn.com/ark.gamepedia.com/thumb/a/a9/SCUBA_Tank.png/50px-SCUBA_Tank.png?version=fc72be0dc89d7e2b09f3bc08df76facc</icon>
+			</item>
+			<item type="dict">
+				<ep_to_unlock type="int">35</ep_to_unlock>
+				<name type="str">SCUBA Leggings</name>
+				<icon type="str">https://hydra-media.cursecdn.com/ark.gamepedia.com/thumb/7/7e/SCUBA_Leggings.png/50px-SCUBA_Leggings.png?version=cd5d252ee31cc87adae486bc6d51e020</icon>
+			</item>
+			<item type="dict">
+				<ep_to_unlock type="int">20</ep_to_unlock>
+				<name type="str">SCUBA Flippers</name>
+				<icon type="str">https://hydra-media.cursecdn.com/ark.gamepedia.com/thumb/4/42/SCUBA_Flippers.png/50px-SCUBA_Flippers.png?version=3edf579d056075e41e29fc8a4330ff40</icon>
+			</item>
+			<item type="dict">
+				<ep_to_unlock type="int">45</ep_to_unlock>
+				<name type="str">Riot Shield</name>
+				<icon type="str">https://hydra-media.cursecdn.com/ark.gamepedia.com/thumb/0/07/Riot_Shield.png/50px-Riot_Shield.png?version=e63232df04be725e6e670028c54c7f2f</icon>
+			</item>
+			<item type="dict">
+				<ep_to_unlock type="int">30</ep_to_unlock>
+				<name type="str">Homing Underwater Mine</name>
+				<icon type="str">https://hydra-media.cursecdn.com/ark.gamepedia.com/thumb/0/03/Homing_Underwater_Mine.png/50px-Homing_Underwater_Mine.png?version=54d72ba64b6d4f34ed2a86a1fede164e</icon>
+			</item>
+			<item type="dict">
+				<ep_to_unlock type="int">60</ep_to_unlock>
+				<name type="str">Mosasaur Saddle</name>
+				<icon type="str">https://hydra-media.cursecdn.com/ark.gamepedia.com/thumb/6/60/Mosasaur_Saddle.png/50px-Mosasaur_Saddle.png?version=35e5059100f58d59004ad40ed449839f</icon>
+			</item>
+			<item type="dict">
+				<ep_to_unlock type="int">40</ep_to_unlock>
+				<name type="str">Riot Helmet</name>
+				<icon type="str">https://hydra-media.cursecdn.com/ark.gamepedia.com/thumb/3/3a/Riot_Helmet.png/50px-Riot_Helmet.png?version=e6bf9738c1d99fd7f8fede836774f91b</icon>
+			</item>
+			<item type="dict">
+				<ep_to_unlock type="int">40</ep_to_unlock>
+				<name type="str">Riot Chestpiece</name>
+				<icon type="str">https://hydra-media.cursecdn.com/ark.gamepedia.com/thumb/5/5a/Riot_Chestpiece.png/50px-Riot_Chestpiece.png?version=7b1cff07a821b1806a12948fcbee7cce</icon>
+			</item>
+			<item type="dict">
+				<ep_to_unlock type="int">40</ep_to_unlock>
+				<name type="str">Riot Gauntlets</name>
+				<icon type="str">https://hydra-media.cursecdn.com/ark.gamepedia.com/thumb/d/d1/Riot_Gauntlets.png/50px-Riot_Gauntlets.png?version=7d14ef8aeb3219ed7be6c7fcabf499ea</icon>
+			</item>
+			<item type="dict">
+				<ep_to_unlock type="int">40</ep_to_unlock>
+				<name type="str">Riot Leggings</name>
+				<icon type="str">https://hydra-media.cursecdn.com/ark.gamepedia.com/thumb/a/ab/Riot_Leggings.png/50px-Riot_Leggings.png?version=7c5c504f289b29334324f0164bc454d2</icon>
+			</item>
+			<item type="dict">
+				<ep_to_unlock type="int">40</ep_to_unlock>
+				<name type="str">Riot Boots</name>
+				<icon type="str">https://hydra-media.cursecdn.com/ark.gamepedia.com/thumb/5/5a/Riot_Boots.png/50px-Riot_Boots.png?version=75cb76eafd1e94e30da84e091c301e4f</icon>
+			</item>
+			<item type="dict">
+				<ep_to_unlock type="int">60</ep_to_unlock>
+				<name type="str">Electric Prod</name>
+				<icon type="str">https://hydra-media.cursecdn.com/ark.gamepedia.com/thumb/4/48/Electric_Prod.png/50px-Electric_Prod.png?version=816db8e9f162d666a7f5d393152426fa</icon>
+			</item>
+			<item type="dict">
+				<ep_to_unlock type="int">80</ep_to_unlock>
+				<name type="str">Plesiosaur Platform Saddle</name>
+				<icon type="str">https://hydra-media.cursecdn.com/ark.gamepedia.com/thumb/e/e5/Plesiosaur_Platform_Saddle.png/50px-Plesiosaur_Platform_Saddle.png?version=49eade8a3bd6dcc776d10e2e36ba852f</icon>
+			</item>
+			<item type="dict">
+				<ep_to_unlock type="int">80</ep_to_unlock>
+				<name type="str">Quetz Platform Saddle</name>
+				<icon type="str">https://hydra-media.cursecdn.com/ark.gamepedia.com/thumb/b/bc/Quetz_Platform_Saddle.png/50px-Quetz_Platform_Saddle.png?version=44330aa1a889fbb992e84f08fe6386e8</icon>
+			</item>
+			<item type="dict">
+				<ep_to_unlock type="int">60</ep_to_unlock>
+				<name type="str">Industrial Cooker</name>
+				<icon type="str">https://hydra-media.cursecdn.com/ark.gamepedia.com/thumb/9/91/Industrial_Cooker.png/50px-Industrial_Cooker.png?version=60aeb74aed0999ddbfb79b8a6d3c49ce</icon>
+			</item>
+			<item type="dict">
+				<ep_to_unlock type="int">80</ep_to_unlock>
+				<name type="str">Mosasaur Platform Saddle</name>
+				<icon type="str">https://hydra-media.cursecdn.com/ark.gamepedia.com/thumb/b/b0/Mosasaur_Platform_Saddle.png/50px-Mosasaur_Platform_Saddle.png?version=7e250926a002a33ea6e4cb89ff43ab26</icon>
+			</item>
+			<item type="dict">
+				<ep_to_unlock type="int">75</ep_to_unlock>
+				<name type="str">Giganotosaurus Saddle</name>
+				<icon type="str">https://hydra-media.cursecdn.com/ark.gamepedia.com/thumb/e/e2/Giganotosaurus_Saddle.png/50px-Giganotosaurus_Saddle.png?version=562f6818e4ce484d7274c1a79d6f25d3</icon>
+			</item>
+			<item type="dict">
+				<ep_to_unlock type="int">80</ep_to_unlock>
+				<name type="str">Minigun Turret</name>
+				<icon type="str">https://hydra-media.cursecdn.com/ark.gamepedia.com/thumb/b/b6/Minigun_Turret.png/50px-Minigun_Turret.png?version=7c79db7b7dad46b537b90c257ceeb814</icon>
+			</item>
+			<item type="dict">
+				<ep_to_unlock type="int">90</ep_to_unlock>
+				<name type="str">Industrial Forge</name>
+				<icon type="str">https://hydra-media.cursecdn.com/ark.gamepedia.com/thumb/c/c5/Industrial_Forge.png/50px-Industrial_Forge.png?version=d610f71e52ba80d41fd00d4629bbd3b1</icon>
+			</item>
+			<item type="dict">
+				<ep_to_unlock type="int">65</ep_to_unlock>
+				<name type="str">Chemistry Bench</name>
+				<icon type="str">https://hydra-media.cursecdn.com/ark.gamepedia.com/thumb/9/9d/Chemistry_Bench.png/50px-Chemistry_Bench.png?version=e4ba9d04f58758d9509e242816c3be58</icon>
+			</item>
+			<item type="dict">
+				<ep_to_unlock type="int">60</ep_to_unlock>
+				<name type="str">Absorbent Substrate</name>
+				<icon type="str">https://hydra-media.cursecdn.com/ark.gamepedia.com/thumb/a/a8/Absorbent_Substrate.png/50px-Absorbent_Substrate.png?version=d57d41b63565ba0b8f7aa39f718489e4</icon>
+			</item>
+			<item type="dict">
+				<ep_to_unlock type="int">110</ep_to_unlock>
+				<name type="str">Gas Mask</name>
+				<icon type="str">https://hydra-media.cursecdn.com/ark.gamepedia.com/thumb/2/2e/Gas_Mask.png/50px-Gas_Mask.png?version=0b622a3e24c134f36c9446b711dca463</icon>
+			</item>
+			<item type="dict">
+				<ep_to_unlock type="int">120</ep_to_unlock>
+				<name type="str">Titanosaur Platform Saddle</name>
+				<icon type="str">https://hydra-media.cursecdn.com/ark.gamepedia.com/thumb/7/72/Titanosaur_Platform_Saddle.png/50px-Titanosaur_Platform_Saddle.png?version=7bde338e455c0272130e1f82fa41820a</icon>
+			</item>
+			<item type="dict">
+				<ep_to_unlock type="int">30</ep_to_unlock>
+				<name type="str">Shocking Tranquilizer Dart</name>
+				<icon type="str">https://hydra-media.cursecdn.com/ark.gamepedia.com/thumb/7/7c/Shocking_Tranquilizer_Dart.png/50px-Shocking_Tranquilizer_Dart.png?version=5993aac7d67b75d03c77c794f3a02f2e</icon>
+			</item>
+			<item type="dict">
+				<ep_to_unlock type="int">100</ep_to_unlock>
+				<name type="str">Rocket Turret</name>
+				<icon type="str">https://hydra-media.cursecdn.com/ark.gamepedia.com/thumb/5/56/Rocket_Turret.png/50px-Rocket_Turret.png?version=d66f922367f573a1f51da8bf598dbc77</icon>
+			</item>
+			<item type="dict">
+				<ep_to_unlock type="int">100</ep_to_unlock>
+				<name type="str">Night Vision Goggles</name>
+				<icon type="str">https://hydra-media.cursecdn.com/ark.gamepedia.com/thumb/2/2f/Night_Vision_Goggles.png/50px-Night_Vision_Goggles.png?version=22ec0f21ca270ebb52ca882aa53ca1a6</icon>
+			</item>
+		</vanilla>
+		<dlc_scorched_earth type="list">
+			<item type="dict">
+				<ep_to_unlock type="int">3</ep_to_unlock>
+				<name type="str">Preserving Salt (Scorched Earth)</name>
+				<icon type="str">https://hydra-media.cursecdn.com/ark.gamepedia.com/thumb/b/ba/Preserving_Salt_%28Scorched_Earth%29.png/50px-Preserving_Salt_%28Scorched_Earth%29.png?version=c33fa764af6d74320c9fbf4026a12466</icon>
+			</item>
+			<item type="dict">
+				<ep_to_unlock type="int">3</ep_to_unlock>
+				<name type="str">Clay (Scorched Earth)</name>
+				<icon type="str">https://hydra-media.cursecdn.com/ark.gamepedia.com/thumb/3/37/Clay_%28Scorched_Earth%29.png/50px-Clay_%28Scorched_Earth%29.png?version=85b7290221f9ae57f304db8fc5914c8b</icon>
+			</item>
+			<item type="dict">
+				<ep_to_unlock type="int">8</ep_to_unlock>
+				<name type="str">Tent (Scorched Earth)</name>
+				<icon type="str">https://hydra-media.cursecdn.com/ark.gamepedia.com/thumb/d/d6/Tent_%28Scorched_Earth%29.png/50px-Tent_%28Scorched_Earth%29.png?version=a923c84df3e9ec2c5a86545841182049</icon>
+			</item>
+			<item type="dict">
+				<ep_to_unlock type="int">2</ep_to_unlock>
+				<name type="str">Boomerang (Scorched Earth)</name>
+				<icon type="str">https://hydra-media.cursecdn.com/ark.gamepedia.com/thumb/1/17/Boomerang_%28Scorched_Earth%29.png/50px-Boomerang_%28Scorched_Earth%29.png?version=9c1a7e902849ff5d01ca39316e6e6246</icon>
+			</item>
+			<item type="dict">
+				<ep_to_unlock type="int">6</ep_to_unlock>
+				<name type="str">Whip (Scorched Earth)</name>
+				<icon type="str">https://hydra-media.cursecdn.com/ark.gamepedia.com/thumb/b/b9/Whip_%28Scorched_Earth%29.png/50px-Whip_%28Scorched_Earth%29.png?version=ab80c2521eb4fedaed9da8db924a8cff</icon>
+			</item>
+			<item type="dict">
+				<ep_to_unlock type="int">10</ep_to_unlock>
+				<name type="str">Water Well (Scorched Earth)</name>
+				<icon type="str">https://hydra-media.cursecdn.com/ark.gamepedia.com/thumb/d/df/Water_Well_%28Scorched_Earth%29.png/50px-Water_Well_%28Scorched_Earth%29.png?version=d96f7360671b8f41a2e3f8ab45f15503</icon>
+			</item>
+			<item type="dict">
+				<ep_to_unlock type="int">11</ep_to_unlock>
+				<name type="str">Morellatops Saddle (Scorched Earth)</name>
+				<icon type="str">https://hydra-media.cursecdn.com/ark.gamepedia.com/thumb/3/3a/Morellatops_Saddle_%28Scorched_Earth%29.png/50px-Morellatops_Saddle_%28Scorched_Earth%29.png?version=2fff826188096e1c5fd2e7190c892e0d</icon>
+			</item>
+			<item type="dict">
+				<ep_to_unlock type="int">6</ep_to_unlock>
+				<name type="str">Adobe Foundation (Scorched Earth)</name>
+				<icon type="str">https://hydra-media.cursecdn.com/ark.gamepedia.com/thumb/5/55/Adobe_Foundation_%28Scorched_Earth%29.png/50px-Adobe_Foundation_%28Scorched_Earth%29.png?version=3e122a0ff0d7f8d84b634c882a1a5c69</icon>
+			</item>
+			<item type="dict">
+				<ep_to_unlock type="int">7</ep_to_unlock>
+				<name type="str">Adobe Wall (Scorched Earth)</name>
+				<icon type="str">https://hydra-media.cursecdn.com/ark.gamepedia.com/thumb/e/e4/Adobe_Wall_%28Scorched_Earth%29.png/50px-Adobe_Wall_%28Scorched_Earth%29.png?version=4aa59dd899c02fc2172decb7c6de0959</icon>
+			</item>
+			<item type="dict">
+				<ep_to_unlock type="int">5</ep_to_unlock>
+				<name type="str">Adobe Ceiling (Scorched Earth)</name>
+				<icon type="str">https://hydra-media.cursecdn.com/ark.gamepedia.com/thumb/6/64/Adobe_Ceiling_%28Scorched_Earth%29.png/50px-Adobe_Ceiling_%28Scorched_Earth%29.png?version=5f23df0476710367a6b2e245b0beca01</icon>
+			</item>
+			<item type="dict">
+				<ep_to_unlock type="int">6</ep_to_unlock>
+				<name type="str">Adobe Fence Foundation (Scorched Earth)</name>
+				<icon type="str">https://hydra-media.cursecdn.com/ark.gamepedia.com/thumb/e/e7/Adobe_Fence_Foundation_%28Scorched_Earth%29.png/50px-Adobe_Fence_Foundation_%28Scorched_Earth%29.png?version=fa6de3e888ebbbd0f5579070250f7926</icon>
+			</item>
+			<item type="dict">
+				<ep_to_unlock type="int">2</ep_to_unlock>
+				<name type="str">Adobe Railing (Scorched Earth)</name>
+				<icon type="str">https://hydra-media.cursecdn.com/ark.gamepedia.com/thumb/b/bf/Adobe_Railing_%28Scorched_Earth%29.png/50px-Adobe_Railing_%28Scorched_Earth%29.png?version=7b5acc71759543e49f2e5d5a918ccffc</icon>
+			</item>
+			<item type="dict">
+				<ep_to_unlock type="int">6</ep_to_unlock>
+				<name type="str">Adobe Doorframe (Scorched Earth)</name>
+				<icon type="str">https://hydra-media.cursecdn.com/ark.gamepedia.com/thumb/3/31/Adobe_Doorframe_%28Scorched_Earth%29.png/50px-Adobe_Doorframe_%28Scorched_Earth%29.png?version=ef48e06844f8a2507eaac671371465b9</icon>
+			</item>
+			<item type="dict">
+				<ep_to_unlock type="int">4</ep_to_unlock>
+				<name type="str">Adobe Door (Scorched Earth)</name>
+				<icon type="str">https://hydra-media.cursecdn.com/ark.gamepedia.com/thumb/9/96/Adobe_Door_%28Scorched_Earth%29.png/50px-Adobe_Door_%28Scorched_Earth%29.png?version=e359dcb6ee0689304a048ad0d4be914e</icon>
+			</item>
+			<item type="dict">
+				<ep_to_unlock type="int">6</ep_to_unlock>
+				<name type="str">Adobe Ladder (Scorched Earth)</name>
+				<icon type="str">https://hydra-media.cursecdn.com/ark.gamepedia.com/thumb/e/e7/Adobe_Ladder_%28Scorched_Earth%29.png/50px-Adobe_Ladder_%28Scorched_Earth%29.png?version=aac6cc22dc4fb2383203231324e6aa6e</icon>
+			</item>
+			<item type="dict">
+				<ep_to_unlock type="int">10</ep_to_unlock>
+				<name type="str">Vessel (Scorched Earth)</name>
+				<icon type="str">https://hydra-media.cursecdn.com/ark.gamepedia.com/thumb/0/07/Vessel_%28Scorched_Earth%29.png/50px-Vessel_%28Scorched_Earth%29.png?version=043e0ebc4c7ff08f5bef777afc5e011d</icon>
+			</item>
+			<item type="dict">
+				<ep_to_unlock type="int">12</ep_to_unlock>
+				<name type="str">Propellant (Scorched Earth)</name>
+				<icon type="str">https://hydra-media.cursecdn.com/ark.gamepedia.com/thumb/2/2f/Propellant_%28Scorched_Earth%29.png/50px-Propellant_%28Scorched_Earth%29.png?version=e495a2e2d19ed41f0cce94c95aa4fcad</icon>
+			</item>
+			<item type="dict">
+				<ep_to_unlock type="int">15</ep_to_unlock>
+				<name type="str">Oil Jar (Scorched Earth)</name>
+				<icon type="str">https://hydra-media.cursecdn.com/ark.gamepedia.com/thumb/c/c1/Oil_Jar_%28Scorched_Earth%29.png/50px-Oil_Jar_%28Scorched_Earth%29.png?version=c3e8aab86e980c136368a1327b108584</icon>
+			</item>
+			<item type="dict">
+				<ep_to_unlock type="int">8</ep_to_unlock>
+				<name type="str">Adobe Pillar (Scorched Earth)</name>
+				<icon type="str">https://hydra-media.cursecdn.com/ark.gamepedia.com/thumb/a/a8/Adobe_Pillar_%28Scorched_Earth%29.png/50px-Adobe_Pillar_%28Scorched_Earth%29.png?version=901c1c2b3684ca4548fcb7206662b2c4</icon>
+			</item>
+			<item type="dict">
+				<ep_to_unlock type="int">5</ep_to_unlock>
+				<name type="str">Sloped Adobe Roof (Scorched Earth)</name>
+				<icon type="str">https://hydra-media.cursecdn.com/ark.gamepedia.com/thumb/d/dd/Sloped_Adobe_Roof_%28Scorched_Earth%29.png/50px-Sloped_Adobe_Roof_%28Scorched_Earth%29.png?version=c18c76412e037dd0d3fb4913fc5bab3c</icon>
+			</item>
+			<item type="dict">
+				<ep_to_unlock type="int">3</ep_to_unlock>
+				<name type="str">Sloped Adobe Wall Left (Scorched Earth)</name>
+				<icon type="str">https://hydra-media.cursecdn.com/ark.gamepedia.com/thumb/f/ff/Sloped_Adobe_Wall_Left_%28Scorched_Earth%29.png/50px-Sloped_Adobe_Wall_Left_%28Scorched_Earth%29.png?version=e42e484d6abb61e5195818d4ae7d839a</icon>
+			</item>
+			<item type="dict">
+				<ep_to_unlock type="int">3</ep_to_unlock>
+				<name type="str">Sloped Adobe Wall Right (Scorched Earth)</name>
+				<icon type="str">https://hydra-media.cursecdn.com/ark.gamepedia.com/thumb/2/2f/Sloped_Adobe_Wall_Right_%28Scorched_Earth%29.png/50px-Sloped_Adobe_Wall_Right_%28Scorched_Earth%29.png?version=b40c0f9580640842b6faf656fa59327e</icon>
+			</item>
+			<item type="dict">
+				<ep_to_unlock type="int">3</ep_to_unlock>
+				<name type="str">Adobe Ramp (Scorched Earth)</name>
+				<icon type="str">https://hydra-media.cursecdn.com/ark.gamepedia.com/thumb/c/c0/Adobe_Ramp_%28Scorched_Earth%29.png/50px-Adobe_Ramp_%28Scorched_Earth%29.png?version=afc53e67d5c418018f443f07a2031170</icon>
+			</item>
+			<item type="dict">
+				<ep_to_unlock type="int">8</ep_to_unlock>
+				<name type="str">Adobe Hatchframe (Scorched Earth)</name>
+				<icon type="str">https://hydra-media.cursecdn.com/ark.gamepedia.com/thumb/3/3f/Adobe_Hatchframe_%28Scorched_Earth%29.png/50px-Adobe_Hatchframe_%28Scorched_Earth%29.png?version=5891a8e4af23fa5a999cdf057a5f3cd7</icon>
+			</item>
+			<item type="dict">
+				<ep_to_unlock type="int">6</ep_to_unlock>
+				<name type="str">Adobe Trapdoor (Scorched Earth)</name>
+				<icon type="str">https://hydra-media.cursecdn.com/ark.gamepedia.com/thumb/4/46/Adobe_Trapdoor_%28Scorched_Earth%29.png/50px-Adobe_Trapdoor_%28Scorched_Earth%29.png?version=e2023e744fcb1b8da2f1c7e5ca46a5bb</icon>
+			</item>
+			<item type="dict">
+				<ep_to_unlock type="int">8</ep_to_unlock>
+				<name type="str">Adobe Windowframe (Scorched Earth)</name>
+				<icon type="str">https://hydra-media.cursecdn.com/ark.gamepedia.com/thumb/8/86/Adobe_Windowframe_%28Scorched_Earth%29.png/50px-Adobe_Windowframe_%28Scorched_Earth%29.png?version=2aeaf2d0e9a5640f3dd64fc8ed443a4d</icon>
+			</item>
+			<item type="dict">
+				<ep_to_unlock type="int">6</ep_to_unlock>
+				<name type="str">Adobe Window (Scorched Earth)</name>
+				<icon type="str">https://hydra-media.cursecdn.com/ark.gamepedia.com/thumb/6/6b/Adobe_Window_%28Scorched_Earth%29.png/50px-Adobe_Window_%28Scorched_Earth%29.png?version=a9315695cb1204eb3b2ea5419d62bbb0</icon>
+			</item>
+			<item type="dict">
+				<ep_to_unlock type="int">15</ep_to_unlock>
+				<name type="str">Adobe Staircase (Scorched Earth)</name>
+				<icon type="str">https://hydra-media.cursecdn.com/ark.gamepedia.com/thumb/e/eb/Adobe_Staircase_%28Scorched_Earth%29.png/50px-Adobe_Staircase_%28Scorched_Earth%29.png?version=1cb54305b4392fe7890b66f646c2845c</icon>
+			</item>
+			<item type="dict">
+				<ep_to_unlock type="int">4</ep_to_unlock>
+				<name type="str">Desert Cloth Shirt (Scorched Earth)</name>
+				<icon type="str">https://hydra-media.cursecdn.com/ark.gamepedia.com/thumb/4/41/Desert_Cloth_Shirt_%28Scorched_Earth%29.png/50px-Desert_Cloth_Shirt_%28Scorched_Earth%29.png?version=0979a6e17af407b28f50b15909dacdc8</icon>
+			</item>
+			<item type="dict">
+				<ep_to_unlock type="int">5</ep_to_unlock>
+				<name type="str">Desert Cloth Pants (Scorched Earth)</name>
+				<icon type="str">https://hydra-media.cursecdn.com/ark.gamepedia.com/thumb/c/c0/Desert_Cloth_Pants_%28Scorched_Earth%29.png/50px-Desert_Cloth_Pants_%28Scorched_Earth%29.png?version=b7f5aae7722d93db1d9614f735ef406b</icon>
+			</item>
+			<item type="dict">
+				<ep_to_unlock type="int">15</ep_to_unlock>
+				<name type="str">Flame Arrow (Scorched Earth)</name>
+				<icon type="str">https://hydra-media.cursecdn.com/ark.gamepedia.com/thumb/d/dc/Flame_Arrow_%28Scorched_Earth%29.png/50px-Flame_Arrow_%28Scorched_Earth%29.png?version=7557cf3e0566b4a5541d9e0ca8618ef2</icon>
+			</item>
+			<item type="dict">
+				<ep_to_unlock type="int">12</ep_to_unlock>
+				<name type="str">Adobe Dinosaur Gateway (Scorched Earth)</name>
+				<icon type="str">https://hydra-media.cursecdn.com/ark.gamepedia.com/thumb/2/21/Adobe_Dinosaur_Gateway_%28Scorched_Earth%29.png/50px-Adobe_Dinosaur_Gateway_%28Scorched_Earth%29.png?version=46a0c0d2548b4dba50728da27c2aa072</icon>
+			</item>
+			<item type="dict">
+				<ep_to_unlock type="int">8</ep_to_unlock>
+				<name type="str">Adobe Dinosaur Gate (Scorched Earth)</name>
+				<icon type="str">https://hydra-media.cursecdn.com/ark.gamepedia.com/thumb/1/1e/Adobe_Dinosaur_Gate_%28Scorched_Earth%29.png/50px-Adobe_Dinosaur_Gate_%28Scorched_Earth%29.png?version=275502f8b34a87a19721b81ee6d3521e</icon>
+			</item>
+			<item type="dict">
+				<ep_to_unlock type="int">7</ep_to_unlock>
+				<name type="str">Desert Goggles and Hat (Scorched Earth)</name>
+				<icon type="str">https://hydra-media.cursecdn.com/ark.gamepedia.com/thumb/9/99/Desert_Goggles_and_Hat_%28Scorched_Earth%29.png/50px-Desert_Goggles_and_Hat_%28Scorched_Earth%29.png?version=710ae787a5e5f1d9682c1da40e86537b</icon>
+			</item>
+			<item type="dict">
+				<ep_to_unlock type="int">7</ep_to_unlock>
+				<name type="str">Desert Cloth Gloves (Scorched Earth)</name>
+				<icon type="str">https://hydra-media.cursecdn.com/ark.gamepedia.com/thumb/3/32/Desert_Cloth_Gloves_%28Scorched_Earth%29.png/50px-Desert_Cloth_Gloves_%28Scorched_Earth%29.png?version=72ded1cc33919631890eec2adc30ec7f</icon>
+			</item>
+			<item type="dict">
+				<ep_to_unlock type="int">7</ep_to_unlock>
+				<name type="str">Desert Cloth Boots (Scorched Earth)</name>
+				<icon type="str">https://hydra-media.cursecdn.com/ark.gamepedia.com/thumb/2/29/Desert_Cloth_Boots_%28Scorched_Earth%29.png/50px-Desert_Cloth_Boots_%28Scorched_Earth%29.png?version=a811cbe735ed2225d20026f6e66b00a1</icon>
+			</item>
+			<item type="dict">
+				<ep_to_unlock type="int">15</ep_to_unlock>
+				<name type="str">Giant Adobe Hatchframe (Scorched Earth)</name>
+				<icon type="str">https://hydra-media.cursecdn.com/ark.gamepedia.com/thumb/1/17/Giant_Adobe_Hatchframe_%28Scorched_Earth%29.png/50px-Giant_Adobe_Hatchframe_%28Scorched_Earth%29.png?version=4a3d6be6f263e2e78bad60366514b49e</icon>
+			</item>
+			<item type="dict">
+				<ep_to_unlock type="int">12</ep_to_unlock>
+				<name type="str">Giant Adobe Trapdoor (Scorched Earth)</name>
+				<icon type="str">https://hydra-media.cursecdn.com/ark.gamepedia.com/thumb/f/fe/Giant_Adobe_Trapdoor_%28Scorched_Earth%29.png/50px-Giant_Adobe_Trapdoor_%28Scorched_Earth%29.png?version=31166abdc0ca6c0142257ed972962fb5</icon>
+			</item>
+			<item type="dict">
+				<ep_to_unlock type="int">25</ep_to_unlock>
+				<name type="str">Mirror (Scorched Earth)</name>
+				<icon type="str">https://hydra-media.cursecdn.com/ark.gamepedia.com/thumb/4/4d/Mirror_%28Scorched_Earth%29.png/50px-Mirror_%28Scorched_Earth%29.png?version=1c3f0501e846fe81943a07c5261fea81</icon>
+			</item>
+			<item type="dict">
+				<ep_to_unlock type="int">18</ep_to_unlock>
+				<name type="str">Thorny Dragon Saddle (Scorched Earth)</name>
+				<icon type="str">https://hydra-media.cursecdn.com/ark.gamepedia.com/thumb/8/8e/Thorny_Dragon_Saddle_%28Scorched_Earth%29.png/50px-Thorny_Dragon_Saddle_%28Scorched_Earth%29.png?version=fa04489e4174573a688d1efc809f2da1</icon>
+			</item>
+			<item type="dict">
+				<ep_to_unlock type="int">18</ep_to_unlock>
+				<name type="str">Behemoth Adobe Dinosaur Gateway (Scorched Earth)</name>
+				<icon type="str">https://hydra-media.cursecdn.com/ark.gamepedia.com/thumb/a/aa/Behemoth_Adobe_Dinosaur_Gateway_%28Scorched_Earth%29.png/50px-Behemoth_Adobe_Dinosaur_Gateway_%28Scorched_Earth%29.png?version=3f2dc98375353efa4b94ef0551137502</icon>
+			</item>
+			<item type="dict">
+				<ep_to_unlock type="int">15</ep_to_unlock>
+				<name type="str">Behemoth Adobe Dinosaur Gate (Scorched Earth)</name>
+				<icon type="str">https://hydra-media.cursecdn.com/ark.gamepedia.com/thumb/b/bf/Behemoth_Adobe_Dinosaur_Gate_%28Scorched_Earth%29.png/50px-Behemoth_Adobe_Dinosaur_Gate_%28Scorched_Earth%29.png?version=c38a4de39ecf1fc330a685f29932361c</icon>
+			</item>
+			<item type="dict">
+				<ep_to_unlock type="int">12</ep_to_unlock>
+				<name type="str">Lymantria Saddle (Scorched Earth)</name>
+				<icon type="str">https://hydra-media.cursecdn.com/ark.gamepedia.com/thumb/1/19/Lymantria_Saddle_%28Scorched_Earth%29.png/50px-Lymantria_Saddle_%28Scorched_Earth%29.png?version=6cacbda896ec4f8b2a697c9bf29acea2</icon>
+			</item>
+			<item type="dict">
+				<ep_to_unlock type="int">21</ep_to_unlock>
+				<name type="str">Chainsaw (Scorched Earth)</name>
+				<icon type="str">https://hydra-media.cursecdn.com/ark.gamepedia.com/thumb/5/5f/Chainsaw_%28Scorched_Earth%29.png/50px-Chainsaw_%28Scorched_Earth%29.png?version=49fc9cc3f54c3bad124655287cbe0af2</icon>
+			</item>
+			<item type="dict">
+				<ep_to_unlock type="int">18</ep_to_unlock>
+				<name type="str">Wind Turbine (Scorched Earth)</name>
+				<icon type="str">https://hydra-media.cursecdn.com/ark.gamepedia.com/thumb/8/8c/Wind_Turbine_%28Scorched_Earth%29.png/50px-Wind_Turbine_%28Scorched_Earth%29.png?version=7a6488e7300d9fe757dfc4bceed72f29</icon>
+			</item>
+			<item type="dict">
+				<ep_to_unlock type="int">18</ep_to_unlock>
+				<name type="str">Mantis Saddle (Scorched Earth)</name>
+				<icon type="str">https://hydra-media.cursecdn.com/ark.gamepedia.com/thumb/b/b0/Mantis_Saddle_%28Scorched_Earth%29.png/50px-Mantis_Saddle_%28Scorched_Earth%29.png?version=9d1b6b2f2378809e4582dcb54e73baa5</icon>
+			</item>
+			<item type="dict">
+				<ep_to_unlock type="int">8</ep_to_unlock>
+				<name type="str">Cluster Grenade (Scorched Earth)</name>
+				<icon type="str">https://hydra-media.cursecdn.com/ark.gamepedia.com/thumb/4/4c/Cluster_Grenade_%28Scorched_Earth%29.png/50px-Cluster_Grenade_%28Scorched_Earth%29.png?version=b7dc2c17e8091bfa96fc8b5d4b692505</icon>
+			</item>
+			<item type="dict">
+				<ep_to_unlock type="int">25</ep_to_unlock>
+				<name type="str">Flamethrower (Scorched Earth)</name>
+				<icon type="str">https://hydra-media.cursecdn.com/ark.gamepedia.com/thumb/4/47/Flamethrower_%28Scorched_Earth%29.png/50px-Flamethrower_%28Scorched_Earth%29.png?version=4fa846c0992490b3a79b797887c6079c</icon>
+			</item>
+			<item type="dict">
+				<ep_to_unlock type="int">10</ep_to_unlock>
+				<name type="str">Flamethrower Ammo (Scorched Earth)</name>
+				<icon type="str">https://hydra-media.cursecdn.com/ark.gamepedia.com/thumb/0/00/Flamethrower_Ammo_%28Scorched_Earth%29.png/50px-Flamethrower_Ammo_%28Scorched_Earth%29.png?version=c1058cdcfd68ef1bfbd066c58aedc183</icon>
+			</item>
+			<item type="dict">
+				<ep_to_unlock type="int">24</ep_to_unlock>
+				<name type="str">Oil Pump (Scorched Earth)</name>
+				<icon type="str">https://hydra-media.cursecdn.com/ark.gamepedia.com/thumb/7/7d/Oil_Pump_%28Scorched_Earth%29.png/50px-Oil_Pump_%28Scorched_Earth%29.png?version=72db4e11d7ad841f6d9b563dd4e32c7d</icon>
+			</item>
+			<item type="dict">
+				<ep_to_unlock type="int">40</ep_to_unlock>
+				<name type="str">Rock Golem Saddle (Scorched Earth)</name>
+				<icon type="str">https://hydra-media.cursecdn.com/ark.gamepedia.com/thumb/2/2d/Rock_Golem_Saddle_%28Scorched_Earth%29.png/50px-Rock_Golem_Saddle_%28Scorched_Earth%29.png?version=6bcd88fe06393b2afa3bb10c57158e60</icon>
+			</item>
+			<item type="dict">
+				<ep_to_unlock type="int">25</ep_to_unlock>
+				<name type="str">Rocket Homing Missile (Scorched Earth)</name>
+				<icon type="str">https://hydra-media.cursecdn.com/ark.gamepedia.com/thumb/9/9f/Rocket_Homing_Missile_%28Scorched_Earth%29.png/50px-Rocket_Homing_Missile_%28Scorched_Earth%29.png?version=3b27292acbd87cc400b445bc7ee5e4c8</icon>
+			</item>
+		</dlc_scorched_earth>
+	</engrams>
+</root>

@@ -1,0 +1,2 @@
+dicttoxml==1.7.4
+beautifulsoup4==4.5.3
