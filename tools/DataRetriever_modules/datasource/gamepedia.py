@@ -66,6 +66,12 @@ def get_engrams():
     
     wikitables = soup.find_all("table", {"class": "wikitable"})
 
+    # integrity check
+    if len(wikitables) != GAMEPEDIA_CHECKSUMS["engrams"]:
+        print("PROBLEM: The queried page has more tables than before. Maybe the page was edited and this data source module needs a rewrite!")
+        print("-> If you want to continue, just press enter and see what happens. But there is absolutely no guarantee for data integrity. If you think that the queried page might be a different one than before, please rewrite the module or contact the author.")
+        raw_input("Press Enter to continue...")
+    
     # iterate over all tables in HTML code with class "wikitable"
     for table in wikitables:
 
