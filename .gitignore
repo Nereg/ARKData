@@ -1,1 +1,4 @@
 *.pyc
+Lib
+Scripts
+pyvenv.cfg

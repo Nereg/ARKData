@@ -1,0 +1,20 @@
+#Engrams parcer
+dicttoxml==1.7.4
+beautifulsoup4==4.5.3
+#Official Servers fetcher
+aiodns==2.0.0
+aiohttp==3.7.3
+async-timeout==3.0.1
+attrs==20.3.0
+brotlipy==0.7.0
+cchardet==2.1.7
+cffi==1.14.4
+chardet==3.0.4
+idna==3.1
+multidict==5.1.0
+pycares==3.1.1
+pycparser==2.20
+typing-extensions==3.7.4.3
+yarl==1.6.3
+aiofiles==0.6.0 # yeah first time using that
+aiocsv==1.1.1 # yeah I wanted JSON but it won't cut to write in batches 
